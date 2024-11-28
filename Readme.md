@@ -3,7 +3,7 @@
 
 ... is a fan made missions package for Command &amp; Conquer: Red Alert 3.
 
-List of patched maps and campaigns:
+List of included maps and campaigns with edits:
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
 
 ## About `map.str` format used in the repository
