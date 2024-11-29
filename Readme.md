@@ -5,6 +5,7 @@
 
 List of included maps and campaigns with edits:
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
+* [Bloody Blade Revenge](https://www.moddb.com/games/cc-red-alert-3/addons/lds-pve-bloody-blade-revenge)
 
 ## About `map.str` format used in the repository
 All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
