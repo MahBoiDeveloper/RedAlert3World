@@ -1,7 +1,7 @@
 # Red Alert 3 World
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/RedAlert3World/total.svg)](https://github.com/MahBoiDeveloper/RedAlert3World/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
-... is a fan made missions package for Command &amp; Conquer: Red Alert 3.
+... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other game modes maps.
 
 List of included maps and campaigns with edits:
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
@@ -38,7 +38,7 @@ Copyright (C) 2024 mah_boi
 
 This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
 
- * BY: Credit must be given to the creator of this project and to the font authors and contributors.
+ * BY: Credit must be given to the creator of this project, and contributors, and original map authors.
  * NC: Only noncommercial uses of the work are permitted.
 
 Read more about license: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
