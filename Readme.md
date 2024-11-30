@@ -25,11 +25,11 @@ All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<Stri
 
 ## Map authors
 This table contains information about all custom map, which has been added to the project.
-| Author(s)    | Original Map Name                | New Map Name               | Game Mode   | Version | Related Issue With Links                                           |
-| -------------| ---------------------------------| -------------------------- | ----------- | ------- | ------------------------------------------------------------------ |
-| Mirrar-x     | [MIA]Time_to_Repentance_v1.32OV  | [RA3] Time To Repentance   | Cooperative | 1.3     | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
-| Little_dream | (LDS PVE) Bloody Blade Revenge   | [RA3] Bloody Blade Revenge | Cooperative | N/A     | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
-| MasterPurple | ReportArt of defence CHALLANGE   | [RA3] AOD Challenge        | Solo AOD    | 2       | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
+| Author(s)     | New Map Name               | Game Mode   | Version | Related Issue With Links                                           |
+| ------------- | -------------------------- | ----------- | ------- | ------------------------------------------------------------------ |
+| Mirrar-x      | [RA3] Time To Repentance   | Cooperative | 1.3     | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
+| Little_dream  | [RA3] Bloody Blade Revenge | Cooperative | N/A     | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
+| MasterPurple  | [RA3] AOD Challenge        | Solo AOD    | 2       | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
