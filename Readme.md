@@ -27,12 +27,12 @@ All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<Stri
 
 ## Map authors
 This table contains information about all custom map, which has been added to the project.
-| Author(s)     | New Map Name               | Game Mode   | Version | Related Issue With Links                                           |
-| ------------- | -------------------------- | ----------- | ------- | ------------------------------------------------------------------ |
-| Mirrar-x      | [RA3] Time To Repentance   | Cooperative | 1.3     | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
-| Little_dream  | [RA3] Bloody Blade Revenge | Cooperative | N/A     | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
-| MasterPurple  | [RA3] AOD Challenge        | Solo AOD    | 2       | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
-| TheGunrun     | [RA3] TD Ravana            | TD          | 2       | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
+| Author(s)     | New Map Name               | Game Mode      | Version | Related Issue With Links                                           |
+| ------------- | -------------------------- | -------------- | ------- | ------------------------------------------------------------------ |
+| Mirrar-x      | [RA3] Time To Repentance   | Cooperative    | 1.3     | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
+| Little_dream  | [RA3] Bloody Blade Revenge | Cooperative    | N/A     | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
+| MasterPurple  | [RA3] AOD Challenge        | Art Of Defense | 2       | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
+| TheGunrun     | [RA3] TD Ravana            | Tower Defense  | N/A     | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
