@@ -7,6 +7,7 @@ List of included maps and campaigns with edits:
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
 * [Bloody Blade Revenge](https://www.moddb.com/games/cc-red-alert-3/addons/lds-pve-bloody-blade-revenge)
 * [AOD Challenge](https://www.moddb.com/games/cc-red-alert-3/addons/art-of-defence-challange)
+* [TD Ravana](https://www.cnclabs.com/downloads/details.aspx?id=520)
 
 ## About `map.str` format used in the repository
 All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
@@ -31,6 +32,7 @@ This table contains information about all custom map, which has been added to th
 | Mirrar-x      | [RA3] Time To Repentance   | Cooperative | 1.3     | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
 | Little_dream  | [RA3] Bloody Blade Revenge | Cooperative | N/A     | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
 | MasterPurple  | [RA3] AOD Challenge        | Solo AOD    | 2       | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
+| TheGunrun     | [RA3] TD Ravana            | TD          | 2       | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
