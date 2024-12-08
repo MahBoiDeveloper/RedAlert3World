@@ -14,6 +14,9 @@ List of included maps and campaigns with edits:
 * [Mount Fuji Capture](https://www.moddb.com/games/cc-red-alert-3/addons/mount-fuji-capture-v101)
 * [Finale Battle](https://www.moddb.com/games/cc-red-alert-3/addons/final-battle-beta-01)
 
+## Installation
+Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
+
 ## About `map.str` format used in the repository
 All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
 
