@@ -13,6 +13,7 @@ List of included maps and campaigns with edits:
 * [Attack On The Emperor](https://www.moddb.com/games/cc-red-alert-3/addons/mission-imperor1)
 * [Mount Fuji Capture](https://www.moddb.com/games/cc-red-alert-3/addons/mount-fuji-capture-v101)
 * [Finale Battle](https://www.moddb.com/games/cc-red-alert-3/addons/final-battle-beta-01)
+* [Trapped](https://www.moddb.com/games/cc-red-alert-3/addons/map19)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -46,6 +47,7 @@ This table contains information about all custom map, which has been added to th
 | 666pro         | [RA3] Attack On The Emperor | Cooperative    | 1.4      | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
 | 666pro         | [RA3] Mount Fuji Capture    | Cooperative    | 1.0.1    | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
 | 666pro         | [RA3] Finale Battle         | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
+| Mommy_long21   | [RA3] Trapped               | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
