@@ -722,13 +722,6 @@
 	<GameMap
 		id="RA3_Trapped">
 		<Waypoint
-			id="Point - Allies">
-			<Position
-				x="1063.247444"
-				y="743.696168"
-				z="0"/>
-		</Waypoint>
-		<Waypoint
 			id="Das">
 			<Position
 				x="5246.399268"
@@ -738,15 +731,15 @@
 		<Waypoint
 			id="Player_2_Start">
 			<Position
-				x="924.6864"
-				y="542.349003"
+				x="5046.950401"
+				y="5058.915209"
 				z="0"/>
 		</Waypoint>
 		<Waypoint
 			id="Player_1_Start">
 			<Position
-				x="2662.507049"
-				y="2368.934882"
+				x="929.202266"
+				y="554.334326"
 				z="0"/>
 		</Waypoint>
 		<Waypoint
@@ -757,28 +750,105 @@
 				z="0"/>
 		</Waypoint>
 		<Waypoint
-			id="WP - Player_2 - Base Setup - Naval Yard 1">
-			<Position
-				x="3368.654828"
-				y="867.114644"
-				z="70"/>
-		</Waypoint>
-		<Waypoint
 			id="WP - Japan02 - End Game Battleships P1">
 			<Position
 				x="-75.475184"
 				y="4988.003887"
 				z="0"/>
 		</Waypoint>
-		<Waypoint
-			id="WP - Allied02 - Deploy - Bomber - 2">
-			<Position
-				x="3867.589663"
-				y="1691.666887"
-				z="0"/>
-		</Waypoint>
 		<Structure
-			Angle="-2.031422"
+			Angle="-0.785399"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefenseAdvanced"
+			id="AlliedBaseDefenseAdvanced">
+			<Position
+				x="1145.813467"
+				y="913.021845"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-0.785399"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefenseAdvanced"
+			id="AlliedBaseDefenseAdvanced">
+			<Position
+				x="1502.70026"
+				y="507.778967"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-0.785399"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefenseAdvanced"
+			id="AlliedBaseDefenseAdvanced">
+			<Position
+				x="614.127444"
+				y="849.823864"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefenseAdvanced"
+			id="JapanBaseDefenseAdvanced">
+			<Position
+				x="330.355008"
+				y="2559.931689"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="3.141593"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefenseAdvanced"
+			id="JapanBaseDefenseAdvanced">
+			<Position
+				x="2014.919466"
+				y="1683.201862"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.887171"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefenseAdvanced"
+			id="JapanBaseDefenseAdvanced">
+			<Position
+				x="2677.981867"
+				y="2396.706244"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefenseAdvanced"
+			id="JapanBaseDefenseAdvanced">
+			<Position
+				x="2385.156266"
+				y="1588.248644"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
 			EventList=""
 			Faction="Player_2/teamPlayer_2"
 			Health="100"
@@ -786,8 +856,203 @@
 			ThingTemplate="JapanBaseDefense"
 			id="JapanBaseDefense">
 			<Position
-				x="258.604065"
-				y="1149.905381"
+				x="2673.153281"
+				y="1651.720589"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanPowerPlant"
+			id="JapanPowerPlant">
+			<Position
+				x="2561.011626"
+				y="1937.222029"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanPowerPlant"
+			id="JapanPowerPlant">
+			<Position
+				x="2563.38304"
+				y="1839.98986"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWarFactory"
+			id="JapanWarFactory">
+			<Position
+				x="2581.887629"
+				y="1703.461861"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefense"
+			id="JapanBaseDefense">
+			<Position
+				x="372.584522"
+				y="3965.421226"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-1.570796"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanPowerPlant"
+			id="JapanPowerPlant">
+			<Position
+				x="309.7312"
+				y="3966.915624"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBarracks"
+			id="JapanBarracks">
+			<Position
+				x="99.920786"
+				y="3965.070828"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanNavalYard"
+			id="JapanNavalYard">
+			<Position
+				x="3253.336421"
+				y="355.556566"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanNavalYard"
+			id="JapanNavalYard">
+			<Position
+				x="3359.402441"
+				y="461.622587"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanNavalYard"
+			id="JapanNavalYard">
+			<Position
+				x="1824.861068"
+				y="2527.011043"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanNavalYard"
+			id="JapanNavalYard">
+			<Position
+				x="1697.581866"
+				y="2654.29002"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWarFactory"
+			id="JapanWarFactory">
+			<Position
+				x="1431.864588"
+				y="3632.716046"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWarFactory"
+			id="JapanWarFactory">
+			<Position
+				x="1678.82826"
+				y="3455.282447"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedNavalYard"
+			id="AlliedNavalYard">
+			<Position
+				x="1571.058728"
+				y="901.192987"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="1876.43082"
+				y="1022.096641"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="1664.298409"
+				y="1106.949467"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -796,11 +1061,479 @@
 			Faction="Player_2/teamPlayer_2"
 			Health="100"
 			Team="Player_2"
+			ThingTemplate="JapanBaseDefenseAdvanced"
+			id="JapanBaseDefenseAdvanced">
+			<Position
+				x="481.790167"
+				y="1393.709126"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="893.84992"
+				y="442.670922"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="830.210241"
+				y="379.031284"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="957.489527"
+				y="379.031284"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBarracks"
+			id="AlliedBarracks">
+			<Position
+				x="898.671208"
+				y="777.171841"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedConstructionYard"
+			id="AlliedConstructionYard">
+			<Position
+				x="929.860726"
+				y="551.709989"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="893.84992"
+				y="315.391626"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedTechStructure"
+			id="AlliedTechStructure">
+			<Position
+				x="773.659446"
+				y="611.25952"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedWarFactory"
+			id="AlliedWarFactory">
+			<Position
+				x="1132.016404"
+				y="565.040185"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedRefinery"
+			id="AlliedRefinery">
+			<Position
+				x="442.587387"
+				y="660.499403"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedRefinery"
+			id="AlliedRefinery">
+			<Position
+				x="569.866368"
+				y="490.793568"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="728.965609"
+				y="480.186964"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="559.260043"
+				y="649.892565"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="1429.001386"
+				y="374.121044"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedBaseDefense"
+			id="AlliedBaseDefense">
+			<Position
+				x="1153.229787"
+				y="437.760783"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedRefinery"
+			id="AlliedRefinery">
+			<Position
+				x="1503.247528"
+				y="278.661504"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedRefinery"
+			id="AlliedRefinery">
+			<Position
+				x="1248.689045"
+				y="321.088"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="1352.126989"
+				y="254.046522"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="1266.393206"
+				y="169.0028"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="1057.879606"
+				y="285.591904"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="644.104246"
+				y="385.577846"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="558.370644"
+				y="300.534144"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="2.356194"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedPowerPlant"
+			id="AlliedPowerPlant">
+			<Position
+				x="362.47728"
+				y="424.886122"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="260.399387"
+				y="1290.262006"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="239.186267"
+				y="1269.048802"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="217.97312"
+				y="1247.835521"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="196.759728"
+				y="1226.622327"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="175.546608"
+				y="1205.409123"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanRefinery"
+			id="JapanRefinery">
+			<Position
+				x="3815.486088"
+				y="724.13856"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="OreNode"
+			id="OreNode">
+			<Position
+				x="3942.76608"
+				y="851.417846"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
 			ThingTemplate="JapanBaseDefense"
 			id="JapanBaseDefense">
 			<Position
-				x="568.142602"
-				y="1043.680263"
+				x="4632.195202"
+				y="2134.817067"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanRefinery"
+			id="JapanRefinery">
+			<Position
+				x="4557.948486"
+				y="2187.850025"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanBaseDefense"
+			id="JapanBaseDefense">
+			<Position
+				x="4377.637804"
+				y="2389.375629"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanRefinery"
+			id="JapanRefinery">
+			<Position
+				x="4430.6698"
+				y="2315.128802"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="OreNode"
+			id="OreNode">
+			<Position
+				x="4430.6698"
+				y="2060.570823"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="0.785398"
+			EventList=""
+			Faction="PlyrNeutral/teamPlyrNeutral"
+			Health="100"
+			Team="PlyrNeutral"
+			ThingTemplate="OreNode"
+			id="OreNode">
+			<Position
+				x="4303.39182"
+				y="2187.849868"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWarFactory"
+			id="JapanWarFactory">
+			<Position
+				x="2447.108423"
+				y="3086.101444"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -812,21 +1545,8 @@
 			ThingTemplate="JapanPowerPlant"
 			id="JapanPowerPlant">
 			<Position
-				x="335.519009"
-				y="1476.332328"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="568.701367"
-				y="1235.215842"
+				x="332.54064"
+				y="1481.376324"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -877,8 +1597,8 @@
 			ThingTemplate="JapanPowerPlant"
 			id="JapanPowerPlant">
 			<Position
-				x="165.81344"
-				y="1306.626728"
+				x="162.835099"
+				y="1311.670804"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -890,8 +1610,8 @@
 			ThingTemplate="JapanPowerPlant"
 			id="JapanPowerPlant">
 			<Position
-				x="250.666224"
-				y="1391.479522"
+				x="247.687883"
+				y="1396.52352"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1207,16 +1927,94 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.785398"
+			Angle="-2.356194"
 			EventList=""
 			Faction="Player_2/teamPlayer_2"
 			Health="100"
 			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
 			<Position
-				x="398.995766"
-				y="1065.510243"
+				x="408.891809"
+				y="1438.754402"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="387.678688"
+				y="1417.541388"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="366.465323"
+				y="1396.328004"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="345.25216"
+				y="1375.114722"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="324.03904"
+				y="1353.901608"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="302.825889"
+				y="1332.688582"
+				z="0"/>
+		</Structure>
+		<Structure
+			Angle="-2.356194"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanWallSegmentPiece"
+			id="JapanWallSegmentPiece">
+			<Position
+				x="281.612522"
+				y="1311.475043"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1228,216 +2026,8 @@
 			ThingTemplate="JapanWallPiece"
 			id="JapanWallPiece">
 			<Position
-				x="198.635504"
-				y="1137.796581"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="219.848586"
-				y="1116.583387"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="241.061962"
-				y="1095.369846"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="262.275089"
-				y="1074.156801"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="283.488224"
-				y="1052.943607"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="304.701601"
-				y="1031.73024"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="325.91472"
-				y="1010.51712"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="347.127882"
-				y="989.303926"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="368.341002"
-				y="968.090807"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="389.554369"
-				y="946.87744"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="559.260043"
-				y="1074.156801"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="538.046647"
-				y="1052.943528"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="516.833525"
-				y="1031.730409"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="495.620362"
-				y="1010.51712"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="474.406966"
-				y="989.303842"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="453.193846"
-				y="968.090644"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallSegmentPiece"
-			id="JapanWallSegmentPiece">
-			<Position
-				x="431.980725"
-				y="946.877524"
+				x="154.333473"
+				y="1184.196186"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1449,73 +2039,8 @@
 			ThingTemplate="JapanWallPiece"
 			id="JapanWallPiece">
 			<Position
-				x="410.767604"
-				y="925.664404"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWallPiece"
-			id="JapanWallPiece">
-			<Position
-				x="580.473162"
-				y="1095.370005"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1600.637125"
-				y="525.819767"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1664.276805"
-				y="462.18064"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1727.916485"
-				y="398.541003"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1791.556267"
-				y="334.901344"
+				x="430.104961"
+				y="1459.967528"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -1740,32 +2265,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="1881.725068"
-				y="1026.311386"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="1669.592644"
-				y="1111.164002"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="-0.785398"
 			EventList=""
 			Faction="Player_2/teamPlayer_2"
@@ -1828,32 +2327,6 @@
 			<Position
 				x="1345.95466"
 				y="1495.656004"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefenseAdvanced"
-			id="JapanBaseDefenseAdvanced">
-			<Position
-				x="855.61738"
-				y="1280.682586"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefenseAdvanced"
-			id="JapanBaseDefenseAdvanced">
-			<Position
-				x="490.067983"
-				y="1398.091844"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -3204,8 +3677,8 @@
 			ThingTemplate="JapanPowerPlant"
 			id="JapanPowerPlant">
 			<Position
-				x="686.539127"
-				y="2983.345066"
+				x="681.346644"
+				y="2982.566085"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -3217,8 +3690,8 @@
 			ThingTemplate="JapanPowerPlant"
 			id="JapanPowerPlant">
 			<Position
-				x="601.686326"
-				y="2898.49226"
+				x="596.493844"
+				y="2897.713289"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -3300,32 +3773,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWarFactory"
-			id="JapanWarFactory">
-			<Position
-				x="1434.686662"
-				y="3637.812048"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWarFactory"
-			id="JapanWarFactory">
-			<Position
-				x="1682.067841"
-				y="3458.56404"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="0.785398"
 			EventList=""
 			Faction="Player_2/teamPlayer_2"
@@ -3347,86 +3794,8 @@
 			ThingTemplate="JapanBaseDefense"
 			id="JapanBaseDefense">
 			<Position
-				x="325.656363"
-				y="1563.557602"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="666.676161"
-				y="1226.397382"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="483.848567"
-				y="1150.363049"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="941.097442"
-				y="395.33424"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="877.457847"
-				y="458.973989"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="877.457847"
-				y="331.694602"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="813.818166"
-				y="395.33424"
+				x="320.472704"
+				y="1570.743523"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -3453,19 +3822,6 @@
 			<Position
 				x="4070.044809"
 				y="236.23544"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanTechStructure"
-			id="JapanTechStructure">
-			<Position
-				x="792.605388"
-				y="607.466324"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4132,84 +4488,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="1429.001386"
-				y="374.121044"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="1153.229787"
-				y="437.760783"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="728.965609"
-				y="480.186964"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBaseDefense"
-			id="JapanBaseDefense">
-			<Position
-				x="559.260043"
-				y="649.892565"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1047.163605"
-				y="289.268064"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="559.259841"
-				y="310.481441"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="-3.141592"
 			EventList=""
 			Faction="PlyrCivilian/teamPlyrCivilian"
@@ -4379,110 +4657,6 @@
 				z="0"/>
 		</Structure>
 		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="347.127969"
-				y="437.760727"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="644.11264"
-				y="395.33424"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1238.082324"
-				y="140.775633"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanPowerPlant"
-			id="JapanPowerPlant">
-			<Position
-				x="1301.722005"
-				y="204.41528"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanRefinery"
-			id="JapanRefinery">
-			<Position
-				x="1503.247528"
-				y="278.661504"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanRefinery"
-			id="JapanRefinery">
-			<Position
-				x="1248.689045"
-				y="321.088"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanRefinery"
-			id="JapanRefinery">
-			<Position
-				x="569.866368"
-				y="490.793568"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="-2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanRefinery"
-			id="JapanRefinery">
-			<Position
-				x="442.587387"
-				y="660.499403"
-				z="0"/>
-		</Structure>
-		<Structure
 			Angle="2.356194"
 			EventList=""
 			Faction="Player_2/teamPlayer_2"
@@ -4505,7 +4679,7 @@
 			id="JapanNavalYard">
 			<Position
 				x="3420.856847"
-				y="592.625847"
+				y="616.48778"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4532,45 +4706,6 @@
 			<Position
 				x="4306.472007"
 				y="389.074485"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanWarFactory"
-			id="JapanWarFactory">
-			<Position
-				x="1132.016404"
-				y="565.040185"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanNavalYard"
-			id="JapanNavalYard">
-			<Position
-				x="1564.432"
-				y="905.032808"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanBarracks"
-			id="JapanBarracks">
-			<Position
-				x="898.671208"
-				y="777.171841"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4623,19 +4758,6 @@
 			<Position
 				x="2255.578664"
 				y="952.381383"
-				z="0"/>
-		</Structure>
-		<Structure
-			Angle="0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanConstructionYard"
-			id="JapanConstructionYard">
-			<Position
-				x="934.837928"
-				y="551.35104"
 				z="0"/>
 		</Structure>
 		<Structure
@@ -4730,406 +4852,1004 @@
 				z="0"/>
 		</Structure>
 		<Unit
-			Angle="-1.570796"
+			Angle="1.034221"
 			EventList=""
-			Faction="Player_2/teamPlayer_2"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech3"
-			id="JapanAntiVehicleVehicleTech3">
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirShip"
+			id="AlliedAntiAirShip">
 			<Position
-				x="617.205121"
-				y="3374.655685"
+				x="1781.891201"
+				y="880.845844"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="-1.570796"
+			Angle="1.034221"
 			EventList=""
-			Faction="Player_2/teamPlayer_2"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech3"
-			id="JapanAntiVehicleVehicleTech3">
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirShip"
+			id="AlliedAntiAirShip">
 			<Position
-				x="780.145784"
-				y="3374.554464"
+				x="1724.300487"
+				y="917.569044"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.356194"
+			Angle="2.486458"
 			EventList=""
-			Faction="Player_2/teamPlayer_2"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech3"
-			id="JapanAntiVehicleVehicleTech3">
-			<Position
-				x="4106.042449"
-				y="789.6736"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.356194"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech3"
-			id="JapanAntiVehicleVehicleTech3">
-			<Position
-				x="4106.848843"
-				y="540.997248"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="642.288523"
-				y="1177.460322"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-0.785398"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="604.387402"
-				y="1135.917441"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.41071"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2257.641869"
-				y="122.570953"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.41071"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2292.414248"
-				y="169.750609"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.41071"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2334.11584"
-				y="209.66968"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.41071"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2268.263208"
-				y="229.851104"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.41071"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2312.262029"
-				y="270.77568"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.570796"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech3"
-			id="JapanAntiVehicleVehicleTech3">
-			<Position
-				x="2579.117283"
-				y="1302.939462"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.113029"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2515.625442"
-				y="870.18026"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.113029"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2452.308008"
-				y="895.434586"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.113029"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2498.306088"
-				y="927.259126"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.113029"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="2437.987468"
-				y="947.583522"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0.547131"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="1807.997068"
-				y="397.028001"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0.547131"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="1751.892804"
-				y="465.906324"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0.547131"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="1875.04842"
-				y="374.676726"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0.547131"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="1818.031842"
-				y="463.169441"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0.547131"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiVehicleVehicleTech1"
-			id="JapanAntiVehicleVehicleTech1">
-			<Position
-				x="1763.027682"
-				y="521.515982"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="0"
-			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
-			Health="100"
-			Team="PlyrCivilian"
+			Team="Player_1"
 			ThingTemplate="AlliedAntiVehicleVehicleTech3"
 			id="AlliedAntiVehicleVehicleTech3">
 			<Position
-				x="239.41592"
-				y="861.331841"
+				x="1703.640007"
+				y="137.685921"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="0.787431"
+			Angle="0.499386"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="PlyrCivilian"
+			Team="Player_1"
 			ThingTemplate="AlliedAntiVehicleVehicleTech3"
 			id="AlliedAntiVehicleVehicleTech3">
 			<Position
-				x="231.292507"
-				y="800.753442"
+				x="276.776865"
+				y="703.649769"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="-0.485618"
+			Angle="1.717853"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="AlliedAntiVehicleVehicleTech3"
-			id="AlliedAntiVehicleVehicleTech3">
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
 			<Position
-				x="214.387002"
-				y="922.253609"
+				x="571.550966"
+				y="875.908003"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.38558"
+			Angle="-0.432728"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="PlyrCivilian"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="1519.224802"
+				y="382.07728"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.2478"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleShip"
+			id="JapanAntiVehicleShip">
+			<Position
+				x="3151.639689"
+				y="654.435924"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.281781"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiStructureShip"
+			id="JapanAntiStructureShip">
+			<Position
+				x="3308.208002"
+				y="737.658402"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.281781"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiStructureShip"
+			id="JapanAntiStructureShip">
+			<Position
+				x="3171.822829"
+				y="492.327403"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.2478"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleShip"
+			id="JapanAntiVehicleShip">
+			<Position
+				x="3297.810662"
+				y="560.912724"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.559859"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleInfantryTech3"
+			id="JapanAntiVehicleInfantryTech3">
+			<Position
+				x="4227.476043"
+				y="1860.327208"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.559859"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleInfantryTech3"
+			id="JapanAntiVehicleInfantryTech3">
+			<Position
+				x="4165.740801"
+				y="1914.455467"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.559859"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleInfantryTech3"
+			id="JapanAntiVehicleInfantryTech3">
+			<Position
+				x="4106.678402"
+				y="1963.942826"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.416916"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiAirVehicleTech1"
+			id="JapanAntiAirVehicleTech1">
+			<Position
+				x="3803.939203"
+				y="1624.733069"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.416916"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiAirVehicleTech1"
+			id="JapanAntiAirVehicleTech1">
+			<Position
+				x="3774.693646"
+				y="1669.611845"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.025758"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiAirVehicleTech1"
+			id="JapanAntiAirVehicleTech1">
+			<Position
+				x="1922.995625"
+				y="3666.728006"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.025758"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiAirVehicleTech1"
+			id="JapanAntiAirVehicleTech1">
+			<Position
+				x="1883.101864"
+				y="3722.26806"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.835718"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
 			ThingTemplate="AlliedAntiVehicleVehicleTech1"
 			id="AlliedAntiVehicleVehicleTech1">
 			<Position
-				x="2210.432808"
-				y="-228.116561"
+				x="1384.479045"
+				y="414.081047"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.343078"
+			Angle="0.835718"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="PlyrCivilian"
+			Team="Player_1"
 			ThingTemplate="AlliedAntiVehicleVehicleTech1"
 			id="AlliedAntiVehicleVehicleTech1">
 			<Position
-				x="2116.926404"
-				y="-158.326218"
+				x="1319.066182"
+				y="452.174966"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.39913"
+			Angle="0.835718"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_1/teamPlayer_1"
 			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech1"
+			id="AlliedAntiVehicleVehicleTech1">
 			<Position
-				x="2161.04704"
-				y="-189.274688"
+				x="1255.148642"
+				y="488.448362"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.39913"
+			Angle="-2.134426"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_2/teamPlayer_2"
 			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
 			<Position
-				x="2134.591685"
-				y="-129.063426"
+				x="1783.434409"
+				y="1854.585061"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.39913"
+			Angle="-2.134426"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_2/teamPlayer_2"
 			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
 			<Position
-				x="2093.996429"
-				y="-108.987801"
+				x="1914.315207"
+				y="1975.737869"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.39913"
+			Angle="-2.134426"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_2/teamPlayer_2"
 			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
 			<Position
-				x="2070.277447"
-				y="-69.303121"
+				x="1801.782084"
+				y="2031.374889"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="2.39913"
+			Angle="-2.134426"
 			EventList=""
-			Faction="PlyrCivilian/TEAM - Forced"
+			Faction="Player_2/teamPlayer_2"
 			Health="100"
-			Team="PlyrCivilian"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
+			<Position
+				x="1707.597068"
+				y="1999.689229"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.134426"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
+			<Position
+				x="1780.376488"
+				y="1933.589446"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.134426"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
+			<Position
+				x="1934.497862"
+				y="1911.465285"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.110167"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiStructureShip"
+			id="JapanAntiStructureShip">
+			<Position
+				x="1873.338667"
+				y="2029.539841"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.134426"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1_Naval"
+			id="JapanAntiVehicleVehicleTech1_Naval">
+			<Position
+				x="1843.042884"
+				y="1893.07648"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.361992"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech3"
+			id="JapanAntiVehicleVehicleTech3">
+			<Position
+				x="663.77472"
+				y="3190.316262"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.361992"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech3"
+			id="JapanAntiVehicleVehicleTech3">
+			<Position
+				x="614.696321"
+				y="3242.754245"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.331454"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiStructureVehicle"
+			id="JapanAntiStructureVehicle">
+			<Position
+				x="621.556407"
+				y="3145.679045"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.38489"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="621.006584"
+				y="3055.536425"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="460.765163"
+				y="3149.896644"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="556.8336"
+				y="2967.1296"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="425.59936"
+				y="3116.514023"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.361992"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech3"
+			id="JapanAntiVehicleVehicleTech3">
+			<Position
+				x="4109.272862"
+				y="756.938167"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.361992"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech3"
+			id="JapanAntiVehicleVehicleTech3">
+			<Position
+				x="4060.19446"
+				y="809.376986"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.331454"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiStructureVehicle"
+			id="JapanAntiStructureVehicle">
+			<Position
+				x="4189.27488"
+				y="614.507008"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiStructureShip"
+			id="AlliedAntiStructureShip">
+			<Position
+				x="1658.724807"
+				y="813.68458"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.976025"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="1799.98922"
+				y="945.511781"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.976025"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="1732.012261"
+				y="998.150327"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.976025"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="1658.593607"
+				y="1037.688001"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.785398"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiStructureShip"
+			id="AlliedAntiStructureShip">
+			<Position
+				x="1710.97162"
+				y="766.284161"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.513813"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiStructureVehicle"
+			id="AlliedAntiStructureVehicle">
+			<Position
+				x="858.974326"
+				y="656.798647"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.513813"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiStructureVehicle"
+			id="AlliedAntiStructureVehicle">
+			<Position
+				x="812.669929"
+				y="697.669047"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.626063"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedSupportAircraft"
+			id="AlliedSupportAircraft">
+			<Position
+				x="909.710007"
+				y="329.672768"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.626063"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedSupportAircraft"
+			id="AlliedSupportAircraft">
+			<Position
+				x="826.353784"
+				y="367.879125"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.626063"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedSupportAircraft"
+			id="AlliedSupportAircraft">
+			<Position
+				x="967.885861"
+				y="353.117526"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.626063"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedSupportAircraft"
+			id="AlliedSupportAircraft">
+			<Position
+				x="907.97344"
+				y="393.060523"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.626063"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedSupportAircraft"
+			id="AlliedSupportAircraft">
+			<Position
+				x="848.929464"
+				y="436.49232"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="1.717853"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
 			ThingTemplate="AlliedAntiAirVehicleTech1"
 			id="AlliedAntiAirVehicleTech1">
 			<Position
-				x="2052.488421"
-				y="-100.77572"
+				x="626.053366"
+				y="900.192808"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="1.62067"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="524.639925"
+				y="859.929847"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="1.867557"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="687.744163"
+				y="925.134264"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-0.42944"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="1532.667048"
+				y="451.223402"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-0.42944"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="1551.954984"
+				y="522.76384"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-0.255672"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiAirVehicleTech1"
+			id="AlliedAntiAirVehicleTech1">
+			<Position
+				x="1564.74112"
+				y="591.654603"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.842136"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech1"
+			id="AlliedAntiVehicleVehicleTech1">
+			<Position
+				x="647.490788"
+				y="663.91424"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.842136"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech1"
+			id="AlliedAntiVehicleVehicleTech1">
+			<Position
+				x="605.207589"
+				y="702.776583"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.842136"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech1"
+			id="AlliedAntiVehicleVehicleTech1">
+			<Position
+				x="543.329583"
+				y="739.426964"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-0.093469"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech3"
+			id="AlliedAntiVehicleVehicleTech3">
+			<Position
+				x="1572.259526"
+				y="154.863418"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-0.607685"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech3"
+			id="AlliedAntiVehicleVehicleTech3">
+			<Position
+				x="1625.487203"
+				y="219.281681"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="1.944089"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech3"
+			id="AlliedAntiVehicleVehicleTech3">
+			<Position
+				x="407.213322"
+				y="822.462327"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="1.287172"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiVehicleVehicleTech3"
+			id="AlliedAntiVehicleVehicleTech3">
+			<Position
+				x="282.799328"
+				y="808.390563"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.313405"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="818.39616"
+				y="985.77152"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.313405"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="884.999523"
+				y="972.450408"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.313405"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="841.451201"
+				y="923.26464"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.313405"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="908.054662"
+				y="917.628726"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="0.313405"
+			EventList=""
+			Faction="Player_1/teamPlayer_1"
+			Health="100"
+			Team="Player_1"
+			ThingTemplate="AlliedAntiInfantryVehicle"
+			id="AlliedAntiInfantryVehicle">
+			<Position
+				x="858.733389"
+				y="875.331788"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-1.960348"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="218.713728"
+				y="2673.088426"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-1.960348"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="171.411648"
+				y="2685.709442"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-1.960348"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="224.791786"
+				y="2739.268267"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-1.960348"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="175.327889"
+				y="2748.612805"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleInfantry"
+			id="JapanAntiVehicleInfantry">
+			<Position
+				x="729.687529"
+				y="3278.922025"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiInfantryInfantry"
+			id="JapanAntiInfantryInfantry">
+			<Position
+				x="664.486327"
+				y="3284.180265"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiInfantryInfantry"
+			id="JapanAntiInfantryInfantry">
+			<Position
+				x="691.980968"
+				y="3247.962665"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="-2.38489"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="4049.725667"
+				y="647.845642"
+				z="0"/>
+		</Unit>
+		<Unit
+			Angle="2.391101"
+			EventList=""
+			Faction="Player_2/teamPlayer_2"
+			Health="100"
+			Team="Player_2"
+			ThingTemplate="JapanAntiVehicleVehicleTech1"
+			id="JapanAntiVehicleVehicleTech1">
+			<Position
+				x="3938.228048"
+				y="694.695843"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5141,8 +5861,8 @@
 			ThingTemplate="AlliedEngineer"
 			id="AlliedEngineer">
 			<Position
-				x="2633.502248"
-				y="2405.79968"
+				x="1000.939788"
+				y="666.53472"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5154,12 +5874,12 @@
 			ThingTemplate="AlliedEngineer"
 			id="AlliedEngineer">
 			<Position
-				x="2614.843689"
-				y="2404.696421"
+				x="1042.224246"
+				y="631.616203"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="-2.19672"
+			Angle="0.785398"
 			EventList=""
 			Faction="Player_1/teamPlayer_1"
 			Health="100"
@@ -5167,12 +5887,12 @@
 			ThingTemplate="AlliedAntiAirVehicleTech1"
 			id="AlliedAntiAirVehicleTech1">
 			<Position
-				x="2650.34762"
-				y="2417.027625"
+				x="1067.43104"
+				y="658.934922"
 				z="0"/>
 		</Unit>
 		<Unit
-			Angle="-2.19672"
+			Angle="0.785398"
 			EventList=""
 			Faction="Player_1/teamPlayer_1"
 			Health="100"
@@ -5180,216 +5900,8 @@
 			ThingTemplate="AlliedAntiAirVehicleTech1"
 			id="AlliedAntiAirVehicleTech1">
 			<Position
-				x="2597.234828"
-				y="2361.613282"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech3"
-			id="AlliedAntiVehicleVehicleTech3">
-			<Position
-				x="2400.637866"
-				y="1911.658823"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech3"
-			id="AlliedAntiVehicleVehicleTech3">
-			<Position
-				x="2377.786082"
-				y="2014.11328"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech3"
-			id="AlliedAntiVehicleVehicleTech3">
-			<Position
-				x="2700.83466"
-				y="2423.604806"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2606.557867"
-				y="2104.002246"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2388.628807"
-				y="2123.85664"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
-			<Position
-				x="2419.413289"
-				y="2061.684422"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
-			<Position
-				x="2459.317288"
-				y="2153.125221"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
-			<Position
-				x="2539.854081"
-				y="2146.312262"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiAirVehicleTech1"
-			id="AlliedAntiAirVehicleTech1">
-			<Position
-				x="2548.926404"
-				y="2056.988428"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2503.385601"
-				y="2001.834083"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2433.141444"
-				y="1990.431047"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2528.016641"
-				y="2213.843627"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2466.438882"
-				y="2217.036429"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech1"
-			id="AlliedAntiVehicleVehicleTech1">
-			<Position
-				x="2585.568"
-				y="2216.928"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedAntiVehicleVehicleTech3"
-			id="AlliedAntiVehicleVehicleTech3">
-			<Position
-				x="2580.944269"
-				y="2288.159203"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="-2.19672"
-			EventList=""
-			Faction="Player_1/teamPlayer_1"
-			Health="100"
-			Team="Player_1"
-			ThingTemplate="AlliedMCV"
-			id="AlliedMCV">
-			<Position
-				x="2668.798405"
-				y="2335.39466"
+				x="1032.315064"
+				y="695.106806"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5401,8 +5913,8 @@
 			ThingTemplate="JapanNavyScoutShip"
 			id="JapanNavyScoutShip">
 			<Position
-				x="3285.611204"
-				y="614.179385"
+				x="3243.573228"
+				y="631.237323"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5414,86 +5926,8 @@
 			ThingTemplate="JapanNavyScoutShip"
 			id="JapanNavyScoutShip">
 			<Position
-				x="3272.486826"
-				y="532.481366"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.096532"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanNavyScoutShip"
-			id="JapanNavyScoutShip">
-			<Position
-				x="1769.782401"
-				y="1083.198248"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="1.007606"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanNavyScoutShip"
-			id="JapanNavyScoutShip">
-			<Position
-				x="1719.115688"
-				y="1108.239203"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiAirVehicleTech1"
-			id="JapanAntiAirVehicleTech1">
-			<Position
-				x="4073.3888"
-				y="650.609847"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiAirVehicleTech1"
-			id="JapanAntiAirVehicleTech1">
-			<Position
-				x="4034.020489"
-				y="613.3504"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanEngineer"
-			id="JapanEngineer">
-			<Position
-				x="4199.94004"
-				y="751.700323"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanEngineer"
-			id="JapanEngineer">
-			<Position
-				x="4216.598408"
-				y="751.7632"
+				x="3230.448424"
+				y="549.539446"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -5533,32 +5967,6 @@
 			<Position
 				x="4218.385605"
 				y="707.689442"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiInfantryVehicle"
-			id="JapanAntiInfantryVehicle">
-			<Position
-				x="3980.955206"
-				y="738.75616"
-				z="0"/>
-		</Unit>
-		<Unit
-			Angle="2.391101"
-			EventList=""
-			Faction="Player_2/teamPlayer_2"
-			Health="100"
-			Team="Player_2"
-			ThingTemplate="JapanAntiInfantryVehicle"
-			id="JapanAntiInfantryVehicle">
-			<Position
-				x="3955.616849"
-				y="711.649044"
 				z="0"/>
 		</Unit>
 		<Unit
@@ -30335,19 +30743,6 @@
 			ThingTemplate="CA_StreetSegment03"
 			id="CA_STREETSEGMENT03">
 			<Position
-				x="2579.295202"
-				y="1296.58432"
-				z="0"/>
-		</Prop>
-		<Prop
-			Angle="1.570796"
-			EventList=""
-			Faction="PlyrCivilian/teamPlyrCivilian"
-			Health="100"
-			Team="PlyrCivilian"
-			ThingTemplate="CA_StreetSegment03"
-			id="CA_STREETSEGMENT03">
-			<Position
 				x="2579.320005"
 				y="1045.9552"
 				z="0"/>
@@ -45281,15 +45676,15 @@
 			<StartPosition
 				Name="Player_1_Start">
 				<Position
-					x="2662.507049"
-					y="2368.934882"
+					x="929.202266"
+					y="554.334326"
 					z="0"/>
 			</StartPosition>
 			<StartPosition
 				Name="Player_2_Start">
 				<Position
-					x="924.6864"
-					y="542.349003"
+					x="5046.950401"
+					y="5058.915209"
 					z="0"/>
 			</StartPosition>
 		</MapMetaData>
@@ -45522,7 +45917,7 @@
 		id="_neutral_">
 		<ScriptSet>
 			<Script
-				id="MCV">
+				id="Start">
 				<Action
 					Type="TEAM_AI_TRANSFER">
 					<ParameterList/>
@@ -45534,26 +45929,11 @@
 							Object="JapanSuperWeaponAdvanced"/>
 					</ParameterList>
 				</Action>
-			</Script>
-			<Script
-				id="Enginer">
-				<Action
-					Type="NAMED_GARRISON_SPECIFIC_BUILDING_INSTANTLY">
-					<ParameterList/>
-				</Action>
-				<Action
-					Type="NAMED_GARRISON_SPECIFIC_BUILDING_INSTANTLY">
-					<ParameterList/>
-				</Action>
-				<Action
-					Type="MOVE_CAMERA_TO_NAMED">
-					<ParameterList/>
-				</Action>
 				<Action
 					Type="ALLOW_DISALLOW_ONE_BUILDING">
 					<ParameterList>
 						<ObjectType
-							Object="AlliedSuperWeaponAdvanced"/>
+							Object="AlliedAntiStructureShip"/>
 					</ParameterList>
 				</Action>
 				<Action
@@ -45567,7 +45947,28 @@
 					Type="ALLOW_DISALLOW_ONE_BUILDING">
 					<ParameterList>
 						<ObjectType
+							Object="AlliedSuperWeaponAdvanced"/>
+					</ParameterList>
+				</Action>
+				<Action
+					Type="ALLOW_DISALLOW_ONE_BUILDING">
+					<ParameterList>
+						<ObjectType
 							Object="JapanSuperWeaponAdvancedEgg"/>
+					</ParameterList>
+				</Action>
+				<Action
+					Type="ALLOW_DISALLOW_ONE_BUILDING">
+					<ParameterList>
+						<ObjectType
+							Object="JapanAntiStructureShip"/>
+					</ParameterList>
+				</Action>
+				<Action
+					Type="ALLOW_DISALLOW_ONE_BUILDING">
+					<ParameterList>
+						<ObjectType
+							Object="JapanTechStructureEgg"/>
 					</ParameterList>
 				</Action>
 				<Action
@@ -45578,25 +45979,15 @@
 					</ParameterList>
 				</Action>
 				<Action
+					Type="NAMED_GARRISON_SPECIFIC_BUILDING_INSTANTLY">
+					<ParameterList/>
+				</Action>
+				<Action
+					Type="NAMED_GARRISON_SPECIFIC_BUILDING_INSTANTLY">
+					<ParameterList/>
+				</Action>
+				<Action
 					Type="PLAYER_SET_MONEY">
-					<ParameterList/>
-				</Action>
-			</Script>
-			<Script
-				id="Point 1">
-				<Action
-					Type="MOVE_TEAM_TO">
-					<ParameterList/>
-				</Action>
-				<Action
-					Type="SET_MILLISECOND_TIMER">
-					<ParameterList/>
-				</Action>
-			</Script>
-			<Script
-				id="Point 2">
-				<Action
-					Type="TEAM_TRANSFER_TO_PLAYER">
 					<ParameterList/>
 				</Action>
 			</Script>
