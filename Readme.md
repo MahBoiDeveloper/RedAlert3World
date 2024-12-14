@@ -14,6 +14,7 @@ List of included maps and campaigns with edits:
 * [Mount Fuji Capture](https://www.moddb.com/games/cc-red-alert-3/addons/mount-fuji-capture-v101)
 * [Finale Battle](https://www.moddb.com/games/cc-red-alert-3/addons/final-battle-beta-01)
 * [Trapped](https://www.moddb.com/games/cc-red-alert-3/addons/map19)
+* [Shivery Carafia](https://www.moddb.com/games/cc-red-alert-3/addons/mission-operationsshivery-carafia)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -36,18 +37,19 @@ All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<Stri
 
 ## Map authors
 This table contains information about all custom map, which has been added to the project.
-| Author(s)      | Map Name                    | Game Mode      | Version  | Related Issue                                                      |
-| -------------- | --------------------------- | -------------- | -------- | ------------------------------------------------------------------ |
-| Mirrar-x       | [RA3] Time To Repentance    | Cooperative    | 1.3      | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
-| Little_dream   | [RA3] Bloody Blade Revenge  | Cooperative    | N/A      | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
-| MasterPurple   | [RA3] AOD Challenge         | Art Of Defense | 2        | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
-| TheGunrun      | [RA3] TD Ravana             | Tower Defense  | N/A      | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
-| Mirrar-x       | [RA3] The Final Chance      | Singleplayer   | 1.5      | [#51](https://github.com/MahBoiDeveloper/RedAlert3World/issues/51) |
-| Clément Gerber | [RA3] TD A New Hope         | Tower Defense  | N/A      | [#50](https://github.com/MahBoiDeveloper/RedAlert3World/issues/50) |
-| 666pro         | [RA3] Attack On The Emperor | Cooperative    | 1.4      | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
-| 666pro         | [RA3] Mount Fuji Capture    | Cooperative    | 1.0.1    | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
-| 666pro         | [RA3] Finale Battle         | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
-| Mommy_long21   | [RA3] Trapped               | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
+| Author(s)               | Map Name                    | Game Mode      | Version  | Related Issue                                                      |
+| ----------------------- | --------------------------- | -------------- | -------- | ------------------------------------------------------------------ |
+| Mirrar-x                | [RA3] Time To Repentance    | Cooperative    | 1.3      | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
+| Little_dream            | [RA3] Bloody Blade Revenge  | Cooperative    | N/A      | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
+| MasterPurple            | [RA3] AOD Challenge         | Art Of Defense | 2        | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
+| TheGunrun               | [RA3] TD Ravana             | Tower Defense  | N/A      | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
+| Mirrar-x                | [RA3] The Final Chance      | Singleplayer   | 1.5      | [#51](https://github.com/MahBoiDeveloper/RedAlert3World/issues/51) |
+| Clément Gerber          | [RA3] TD A New Hope         | Tower Defense  | N/A      | [#50](https://github.com/MahBoiDeveloper/RedAlert3World/issues/50) |
+| 666pro                  | [RA3] Attack On The Emperor | Cooperative    | 1.4      | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
+| 666pro                  | [RA3] Mount Fuji Capture    | Cooperative    | 1.0.1    | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
+| 666pro                  | [RA3] Finale Battle         | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
+| Mommy_long21            | [RA3] Trapped               | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
+| Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia       | Cooperative    | 1.42OV   | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
