@@ -15,6 +15,7 @@ List of included maps and campaigns with edits:
 * [Finale Battle](https://www.moddb.com/games/cc-red-alert-3/addons/final-battle-beta-01)
 * [Trapped](https://www.moddb.com/games/cc-red-alert-3/addons/map19)
 * [Shivery Carafia](https://www.moddb.com/games/cc-red-alert-3/addons/mission-operationsshivery-carafia)
+* [TD Hard Mode](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -50,6 +51,7 @@ This table contains information about all custom map, which has been added to th
 | 666pro                  | [RA3] Finale Battle         | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
 | Mommy_long21            | [RA3] Trapped               | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
 | Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia       | Cooperative    | 1.42OV   | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
+| superblooper_alpha      | [RA3] TD Hard Mode          | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
