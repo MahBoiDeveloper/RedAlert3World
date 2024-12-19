@@ -18,6 +18,7 @@ List of included maps and campaigns with edits:
 * [TD Hard Mode](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47)
 * [Desecration](https://www.moddb.com/games/cc-red-alert-3/addons/remade-campaign-ra2-desecration)
 * [Hand Of Death](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaign-hand-of-death)
+* [Mountain Pass](https://www.cnclabs.com/downloads/details.aspx?id=1362)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -56,6 +57,7 @@ This table contains information about all custom map, which has been added to th
 | superblooper_alpha      | [RA3] TD Hard Mode          | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
 | Mirrar-x                | [RA3] Desecration           | Singleplayer   | N/A      | [#64](https://github.com/MahBoiDeveloper/RedAlert3World/issues/64) |
 | ARRIM                   | [RA3] Hand Of Death         | Cooperative    | N/A      | [#65](https://github.com/MahBoiDeveloper/RedAlert3World/issues/65) |
+| zakthesandwarrior       | [RA3] Mountain Pass         | Art Of Offense | N/A      | [#94](https://github.com/MahBoiDeveloper/RedAlert3World/issues/94) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
