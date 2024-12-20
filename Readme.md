@@ -21,6 +21,7 @@ List of included maps and campaigns with edits:
 * [AOO Mountain Pass](https://www.cnclabs.com/downloads/details.aspx?id=1362)
 * [TD Rush Of Tengu](https://www.moddb.com/games/cc-red-alert-3/addons/rush-of-tengu1-1)
 * [TD General Of Superweapon](https://www.moddb.com/games/cc-red-alert-3/addons/general-of-superweapon1-2)
+* [CP Desolation](https://www.moddb.com/games/cc-red-alert-3/addons/desolation-cpoccupying-mode)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -62,6 +63,7 @@ This table contains information about all custom map, which has been added to th
 | zakthesandwarrior       | [RA3] AOO Mountain Pass         | Art Of Offense | N/A      | [#94](https://github.com/MahBoiDeveloper/RedAlert3World/issues/94) |
 | APNHQ                   | [RA3] TD Rush Of Tengu          | Tower Defense  | 1.1      | [#88](https://github.com/MahBoiDeveloper/RedAlert3World/issues/88) |
 | APNHQ                   | [RA3] TD General Of Superweapon | Tower Defense  | 1.2      | [#76](https://github.com/MahBoiDeveloper/RedAlert3World/issues/76) |
+| Mirrar-x                | [RA3] CP Desolation             | Capture Point  | N/A      | [#69](https://github.com/MahBoiDeveloper/RedAlert3World/issues/69) |
 
 
 ## License
