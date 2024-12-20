@@ -20,6 +20,7 @@ List of included maps and campaigns with edits:
 * [Hand Of Death](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaign-hand-of-death)
 * [AOO Mountain Pass](https://www.cnclabs.com/downloads/details.aspx?id=1362)
 * [TD Rush Of Tengu](https://www.moddb.com/games/cc-red-alert-3/addons/rush-of-tengu1-1)
+* [TD General Of Superweapon](https://www.moddb.com/games/cc-red-alert-3/addons/general-of-superweapon1-2)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -42,24 +43,25 @@ All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<Stri
 
 ## Map authors
 This table contains information about all custom map, which has been added to the project.
-| Author(s)               | Map Name                    | Game Mode      | Version  | Related Issue                                                      |
-| ----------------------- | --------------------------- | -------------- | -------- | ------------------------------------------------------------------ |
-| Mirrar-x                | [RA3] Time To Repentance    | Cooperative    | 1.3      | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
-| Little_dream            | [RA3] Bloody Blade Revenge  | Cooperative    | N/A      | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
-| MasterPurple            | [RA3] AOD Challenge         | Art Of Defense | 2        | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
-| TheGunrun               | [RA3] TD Ravana             | Tower Defense  | N/A      | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
-| Mirrar-x                | [RA3] The Final Chance      | Singleplayer   | 1.5      | [#51](https://github.com/MahBoiDeveloper/RedAlert3World/issues/51) |
-| Clément Gerber          | [RA3] TD A New Hope         | Tower Defense  | N/A      | [#50](https://github.com/MahBoiDeveloper/RedAlert3World/issues/50) |
-| 666pro                  | [RA3] Attack On The Emperor | Cooperative    | 1.4      | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
-| 666pro                  | [RA3] Mount Fuji Capture    | Cooperative    | 1.0.1    | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
-| 666pro                  | [RA3] Finale Battle         | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
-| Mommy_long21            | [RA3] Trapped               | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
-| Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia       | Cooperative    | 1.42OV   | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
-| superblooper_alpha      | [RA3] TD Hard Mode          | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
-| Mirrar-x                | [RA3] Desecration           | Singleplayer   | N/A      | [#64](https://github.com/MahBoiDeveloper/RedAlert3World/issues/64) |
-| ARRIM                   | [RA3] Hand Of Death         | Cooperative    | N/A      | [#65](https://github.com/MahBoiDeveloper/RedAlert3World/issues/65) |
-| zakthesandwarrior       | [RA3] AOO Mountain Pass     | Art Of Offense | N/A      | [#94](https://github.com/MahBoiDeveloper/RedAlert3World/issues/94) |
-| APNHQ                   | [RA3] TD Rush Of Tengu      | Tower Defense  | 1.1      | [#88](https://github.com/MahBoiDeveloper/RedAlert3World/issues/88) |
+| Author(s)               | Map Name                        | Game Mode      | Version  | Related Issue                                                      |
+| ----------------------- | ------------------------------- | -------------- | -------- | ------------------------------------------------------------------ |
+| Mirrar-x                | [RA3] Time To Repentance        | Cooperative    | 1.3      | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
+| Little_dream            | [RA3] Bloody Blade Revenge      | Cooperative    | N/A      | [#53](https://github.com/MahBoiDeveloper/RedAlert3World/issues/53) |
+| MasterPurple            | [RA3] AOD Challenge             | Art Of Defense | 2        | [#56](https://github.com/MahBoiDeveloper/RedAlert3World/issues/56) |
+| TheGunrun               | [RA3] TD Ravana                 | Tower Defense  | N/A      | [#1](https://github.com/MahBoiDeveloper/RedAlert3World/issues/1)   |
+| Mirrar-x                | [RA3] The Final Chance          | Singleplayer   | 1.5      | [#51](https://github.com/MahBoiDeveloper/RedAlert3World/issues/51) |
+| Clément Gerber          | [RA3] TD A New Hope             | Tower Defense  | N/A      | [#50](https://github.com/MahBoiDeveloper/RedAlert3World/issues/50) |
+| 666pro                  | [RA3] Attack On The Emperor     | Cooperative    | 1.4      | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
+| 666pro                  | [RA3] Mount Fuji Capture        | Cooperative    | 1.0.1    | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
+| 666pro                  | [RA3] Finale Battle             | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
+| Mommy_long21            | [RA3] Trapped                   | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
+| Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia           | Cooperative    | 1.42OV   | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
+| superblooper_alpha      | [RA3] TD Hard Mode              | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
+| Mirrar-x                | [RA3] Desecration               | Singleplayer   | N/A      | [#64](https://github.com/MahBoiDeveloper/RedAlert3World/issues/64) |
+| ARRIM                   | [RA3] Hand Of Death             | Cooperative    | N/A      | [#65](https://github.com/MahBoiDeveloper/RedAlert3World/issues/65) |
+| zakthesandwarrior       | [RA3] AOO Mountain Pass         | Art Of Offense | N/A      | [#94](https://github.com/MahBoiDeveloper/RedAlert3World/issues/94) |
+| APNHQ                   | [RA3] TD Rush Of Tengu          | Tower Defense  | 1.1      | [#88](https://github.com/MahBoiDeveloper/RedAlert3World/issues/88) |
+| APNHQ                   | [RA3] TD General Of Superweapon | Tower Defense  | 1.2      | [#76](https://github.com/MahBoiDeveloper/RedAlert3World/issues/76) |
 
 
 ## License
