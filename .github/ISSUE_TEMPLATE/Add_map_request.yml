@@ -32,7 +32,9 @@ body:
         - Singleplayer Mission
         - Cooperative Mission
         - Art Of Defense
+        - Art Of Offense
         - Tower Defense
+        - Capture Point
         - etc
     validations:
       required: true
