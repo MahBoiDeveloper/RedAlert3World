@@ -45,7 +45,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="RA3_MoutainPass">
+		id="RA3_AOO_MoutainPass">
 		<Waypoint
 			id="Player_2_Start">
 			<Position
@@ -9202,9 +9202,9 @@
 		<MapMetaData
 			BorderSize="16"
 			CRC="0"
-			Description="Map:[RA3]_MoutainPass/Desc"
-			DisplayName="[RA3] Mountain Pass"
-			FileName="data\maps\[ra3]_moutainpass\[ra3]_moutainpass.map"
+			Description="Map:[RA3]_AOO_MoutainPass/Desc"
+			DisplayName="[RA3] AOO Mountain Pass"
+			FileName="data"
 			Height="482"
 			IsMultiplayer="false"
 			IsOfficial="false"
@@ -9248,7 +9248,7 @@
 				Value="Pavement_Vlad03;Pavement_Vlad03_NRM;RA3Grid1;RA3Grid1_NRM;"/>
 			<StringProperty
 				Key="mapName"
-				Value="[RA3] Mountain Pass"/>
+				Value="[RA3] AOO Mountain Pass"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
@@ -9275,7 +9275,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="RA3_MoutainPass">
+		id="RA3_AOO_MoutainPass">
 		<Tile
 			BaseTexture="ART:Terrain/RA3Grid1.tga"
 			NormalTexture="ART:Terrain/RA3Grid1_NRM.tga"
