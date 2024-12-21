@@ -23,6 +23,7 @@ List of included maps and campaigns with edits:
 * [TD General Of Superweapon](https://www.moddb.com/games/cc-red-alert-3/addons/general-of-superweapon1-2)
 * [CP Desolation](https://www.moddb.com/games/cc-red-alert-3/addons/desolation-cpoccupying-mode)
 * [Minesweeper](https://www.moddb.com/games/cc-red-alert-3/addons/cc-red-alert-3-minesweeper)
+* [The Submerged Destiny](https://www.moddb.com/games/cc-red-alert-3/addons/mission-operationthe-submerged-destiny)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -66,6 +67,7 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] TD General Of Superweapon | Tower Defense  | 1.2      | [#76](https://github.com/MahBoiDeveloper/RedAlert3World/issues/76) |
 | Mirrar-x                | [RA3] CP Desolation             | Capture Point  | N/A      | [#69](https://github.com/MahBoiDeveloper/RedAlert3World/issues/69) |
 | Artilleryv              | [RA3] Minesweeper               | etc            | N/A      | [#84](https://github.com/MahBoiDeveloper/RedAlert3World/issues/84) |
+| ARRIM                   | [RA3] The Submerged Destiny     | Cooperative    | 1.3OV    | [#66](https://github.com/MahBoiDeveloper/RedAlert3World/issues/66) |
 
 
 ## License
