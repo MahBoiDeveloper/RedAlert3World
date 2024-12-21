@@ -60715,8 +60715,8 @@
 			BorderSize="20"
 			CRC="0"
 			Description="Map:[RA3]_Soviet4LakeOfDeathNormal/Desc"
-			DisplayName="[RA3] S4: The Lake of Death (Normal)"
-			FileName="data\maps\[ra3]_soviet4lakeofdeathnormal\[ra3]_soviet4lakeofdeathnormal.map"
+			DisplayName="[RA3] S4: Lake Of Death (Normal)"
+			FileName="data"
 			Height="650"
 			IsMultiplayer="false"
 			IsOfficial="false"
@@ -60767,20 +60767,14 @@
 				Key="musicZone"
 				Value="MusicPalette_NotSet"/>
 			<StringProperty
-				Key="terrainTextureStrings"
-				Value="TCliff_Easter01;TCliff_Easter01_NRM;TDirt_Easter08;TDirt_Easter08_NRM;TDirt_Easter06;TDirt_Easter06_NRM;TDirt_Easter05;TDirt_Easter05_NRM;TDirt_Easter09;TDirt_Easter09_NRM;TDirt_Easter01;TDirt_Easter01_NRM;TDirt_Easter07;TDirt_Easter07_NRM;TGravel_Yucatan01;TGravel_Yucatan01_nrm;TDirt_Easter03;TDirt_Easter03_NRM;TGrass_CapeCod05;TGrass_CapeCod05_nrm;TCliff_Easter02;TCliff_Easter02_NRM;TGrass_Easter01;TGrass_Easter01_NRM;TGrass_Yucatan06;TGrass_Yucatan06_nrm;TGrass_Yucatan05;TGrass_Yucatan05_nrm;TGrass_CapeCod17;TGrass_CapeCod17_nrm;TGrass_Yucatan03;TGrass_Yucatan03_nrm;TGrass_CapeCod19;TGrass_CapeCod19_nrm;TGrass_CapeCod12;TGrass_CapeCod12_nrm;TSand_Hawaii03;TSand_Hawaii03_NRM;TGrass_Yucatan04;TGrass_Yucatan04_nrm;TGrass_CapeCod11;TGrass_CapeCod11_nrm;TDirt_Easter02;TDirt_Easter02_NRM;TCliff_Easter03;TCliff_Easter03_NRM;Grass_MtRush07;Grass_MtRush07_NRM;TDirt_CapeCod02;TDirt_CapeCod02_nrm;TGrass_CapeCod01;TGrass_CapeCod01_nrm;TGrass_CapeCod06;TGrass_CapeCod06_nrm;TGrass_CapeCod09;TGrass_CapeCod09_nrm;TDirt_C"/>
-			<IntProperty
-				Key="weather"
-				Value="1"/>
-			<IntProperty
-				Key="compression"
-				Value="1"/>
-			<StringProperty
 				Key="mapName"
-				Value="[RA3] S4: The Lake of Death (Normal)"/>
+				Value="[RA3] S4: Lake Of Death (Normal)"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
+			<IntProperty
+				Key="compression"
+				Value="1"/>
 			<RealProperty
 				Key="cameraGroundMinHeight"
 				Value="210"/>
@@ -60790,6 +60784,12 @@
 			<BoolProperty
 				Key="isScenarioMultiplayer"
 				Value="false"/>
+			<StringProperty
+				Key="terrainTextureStrings"
+				Value="TCliff_Easter01;TCliff_Easter01_NRM;TDirt_Easter08;TDirt_Easter08_NRM;TDirt_Easter06;TDirt_Easter06_NRM;TDirt_Easter05;TDirt_Easter05_NRM;TDirt_Easter09;TDirt_Easter09_NRM;TDirt_Easter01;TDirt_Easter01_NRM;TDirt_Easter07;TDirt_Easter07_NRM;TGravel_Yucatan01;TGravel_Yucatan01_nrm;TDirt_Easter03;TDirt_Easter03_NRM;TGrass_CapeCod05;TGrass_CapeCod05_nrm;TCliff_Easter02;TCliff_Easter02_NRM;TGrass_Easter01;TGrass_Easter01_NRM;TGrass_Yucatan06;TGrass_Yucatan06_nrm;TGrass_Yucatan05;TGrass_Yucatan05_nrm;TGrass_CapeCod17;TGrass_CapeCod17_nrm;TGrass_Yucatan03;TGrass_Yucatan03_nrm;TGrass_CapeCod19;TGrass_CapeCod19_nrm;TGrass_CapeCod12;TGrass_CapeCod12_nrm;TSand_Hawaii03;TSand_Hawaii03_NRM;TGrass_Yucatan04;TGrass_Yucatan04_nrm;TGrass_CapeCod11;TGrass_CapeCod11_nrm;TDirt_Easter02;TDirt_Easter02_NRM;TCliff_Easter03;TCliff_Easter03_NRM;Grass_MtRush07;Grass_MtRush07_NRM;TDirt_CapeCod02;TDirt_CapeCod02_nrm;TGrass_CapeCod01;TGrass_CapeCod01_nrm;TGrass_CapeCod06;TGrass_CapeCod06_nrm;TGrass_CapeCod09;TGrass_CapeCod09_nrm;TDirt_C"/>
+			<IntProperty
+				Key="weather"
+				Value="1"/>
 		</WorldDict>
 		<MapAnalysis
 			CellsExamined="422500"

@@ -92,12 +92,12 @@ This table contains information about all custom map, which has been added to th
 | lPagnus                 | [RA3] S1: Unexpected Guests (Hard)        | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S2: Very Cold War (Hard)            | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S3: Emperors Last Wish (Hard)       | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
-| lPagnus                 | [RA3] S4: The Lake of Death (Hard)        | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
+| lPagnus                 | [RA3] S4: Lake Of Death (Hard)            | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S5: Moscow Revengeance (Hard)       | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S1: Unexpected Guests (Normal)      | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S2: Very Cold War (Normal)          | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S3: Emperors Last Wish (Normal)     | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
-| lPagnus                 | [RA3] S4: The Lake of Death (Normal)      | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
+| lPagnus                 | [RA3] S4: Lake Of Death (Normal)          | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S5: Moscow Revengeance (Normal)     | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 
 
