@@ -26,6 +26,7 @@ List of included maps and campaigns with edits:
 * [The Submerged Destiny](https://www.moddb.com/games/cc-red-alert-3/addons/mission-operationthe-submerged-destiny)
 * [lPagnus's Fan Campaigns](https://drive.google.com/drive/folders/1XUEsOetqfKxJNRGR71zcAwdlwx2wJLTO)
 * [Ironshuttle](https://www.cnclabs.com/downloads/details.aspx?id=1548)
+* [Technology Theft](https://www.cnclabs.com/downloads/details.aspx?id=1355)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -100,8 +101,8 @@ This table contains information about all custom map, which has been added to th
 | lPagnus                 | [RA3] S3: Emperors Last Wish (Normal)     | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S4: Lake Of Death (Normal)          | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S5: Moscow Revengeance (Normal)     | Cooperative    | N/A      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
-| 31773177                | [RA3] Ironshuttle                         | Art Of Defense | 1.4      | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
-
+| 31773177                | [RA3] Ironshuttle                         | Art Of Defense | 1.4      | [#93](https://github.com/MahBoiDeveloper/RedAlert3World/issues/93) |
+| Elven                   | [RA3] Technology Theft                    | Art Of Defense | 1.5      | [#92](https://github.com/MahBoiDeveloper/RedAlert3World/issues/92) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
