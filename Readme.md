@@ -1,7 +1,7 @@
 # Red Alert 3 World
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/RedAlert3World/total.svg)](https://github.com/MahBoiDeveloper/RedAlert3World/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
-... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other game modes maps.
+... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
 List of included maps and campaigns with edits:
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
@@ -33,7 +33,7 @@ List of included maps and campaigns with edits:
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
 
 ## About `map.str` format used in the repository
-All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
+All strings in `map.str` follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
 
 * Mapper name:
   * Full mapper name or abbreviation without whitespaces.
@@ -41,6 +41,8 @@ All strings in map.str follow this template: `MSN:<Mapper name>:<Map name>:<Stri
   * Full map name or it abbreviation without whitespaces.
 * String name:
   * String name or it abbreviation without whitespaces.
+
+Example: `MSN:ELVEN:TECHTHEFT:TIMER`
 
 <!-- There also have the file `mapStrings.str`, that you can include in your version of `gamestrings.csf`. -->
 
