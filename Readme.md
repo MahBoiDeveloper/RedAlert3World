@@ -29,6 +29,7 @@ List of included maps and campaigns with edits:
 * [Technology Theft](https://www.cnclabs.com/downloads/details.aspx?id=1355)
 * [Prison Break](https://www.cnclabs.com/downloads/details.aspx?id=1214)
 * [AOD Washington Of Liberty](https://www.moddb.com/games/cc-red-alert-3/addons/washington-of-liberty-2-99)
+* [Hero Arena](https://www.moddb.com/games/cc-red-alert-3/addons/5dgamecn)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -109,6 +110,7 @@ This table contains information about all custom map, which has been added to th
 | Elven                   | [RA3] Technology Theft                    | Art Of Defense | 1.5      | [#92](https://github.com/MahBoiDeveloper/RedAlert3World/issues/92) |
 | ThaSlayerb              | [RA3] Prison Break                        | Cooperative    | 1.0      | [#91](https://github.com/MahBoiDeveloper/RedAlert3World/issues/91) |
 | APNHQ                   | [RA3] AOD Washington Of Liberty           | Art Of Defense | 2.99     | [#73](https://github.com/MahBoiDeveloper/RedAlert3World/issues/73) |
+| 5dgame.cn               | [RA3] Hero Arena                          | etc            | 0.5      | [#82](https://github.com/MahBoiDeveloper/RedAlert3World/issues/82) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
