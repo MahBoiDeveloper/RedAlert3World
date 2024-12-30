@@ -1,0 +1,176 @@
+MSN:ELVEN:INFSUR:tanya
+"Indestructible unit!"
+END
+
+MSN:ELVEN:INFSUR:p1s
+"Player 1: "
+END
+
+MSN:ELVEN:INFSUR:p2s
+"Player 2: "
+END
+
+MSN:ELVEN:INFSUR:p3s
+"Player 3: "
+END
+
+MSN:ELVEN:INFSUR:p4s
+"Player 4: "
+END
+
+MSN:ELVEN:INFSUR:hospital
+"Capture this for extra points."
+END
+
+MSN:ELVEN:INFSUR:academy
+"This is your key structure, protect it at all costs."
+END
+
+MSN:ELVEN:INFSUR:1mcv
+"Player 1 has enough points to get an additional MCV!"
+END
+
+MSN:ELVEN:INFSUR:2mcv
+"Player 2 has enough points to get an additional MCV!"
+END
+
+MSN:ELVEN:INFSUR:3mcv
+"Player 3 has enough points to get an additional MCV!"
+END
+
+MSN:ELVEN:INFSUR:4mcv
+"Player 4 has enough points to get an additional MCV!"
+END
+
+MSN:ELVEN:INFSUR:p1
+"You are player 1"
+END
+
+MSN:ELVEN:INFSUR:p2
+"You are player 2"
+END
+
+MSN:ELVEN:INFSUR:p3
+"You are player 3"
+END
+
+MSN:ELVEN:INFSUR:p4
+"You are player 4"
+END
+
+MSN:ELVEN:INFSUR:p1hospital
+"Player 1 has control of the hospital!"
+END
+
+MSN:ELVEN:INFSUR:p2hospital
+"Player 2 has control of the hospital!"
+END
+
+MSN:ELVEN:INFSUR:p3hospital
+"Player 3 has control of the hospital!"
+END
+
+MSN:ELVEN:INFSUR:p4hospital
+"Player 4 has control of the hospital!"
+END
+
+MSN:ELVEN:INFSUR:intro1
+"Welcome! IF you are playing this map for the first time, DON'T DO ANYTHING!!! If not, try to capture hospital!"
+END
+
+MSN:ELVEN:INFSUR:intro2
+"Only infantry is allowed on this map."
+END
+
+MSN:ELVEN:INFSUR:intro3
+"This is a points based map. You will get 1 point every 2 seconds if you have units in the middle area. And if you have control of the hospital, you will obtain 1 extra point every 2 seconds."
+END
+
+MSN:ELVEN:INFSUR:intro4
+"This is your key structure. You will lose if it is destroyed, so protect it at all costs. Keep in mind that you can repair it with your engineer."
+END
+
+MSN:ELVEN:INFSUR:intro5
+"Money is crucial in this game, there are 4 expansion points, take control of them and you will get a big economic advantage."
+END
+
+MSN:ELVEN:INFSUR:intro6
+"All players will get 1 point every 3 seconds. Every kill also gives you 1 additional point. You will receive a special reward for obtaining a high points count."
+END
+
+MSN:ELVEN:INFSUR:intro6.5
+"There are four Nanoswarm Hives on the map, capture them for your own use!"
+END
+
+MSN:ELVEN:INFSUR:intro7
+"Map made by Elven. Thanks goes Mando777 for ideas and Acid_Crash for minimap. \n \nFeel free to PM me (Elven) on the official forum to report glitches or suggestions. \n \nMap is now presented by ProWB! \nHttp://prowb.forumotion.com \n \nGood luck and have fun!"
+END
+
+MSN:ELVEN:INFSUR:alert1
+"ALERT! Player 1 has 2000 points. \nSuperweapons removed! \nSuprise is indestructable for 30 seconds!"
+END
+
+MSN:ELVEN:INFSUR:alert2
+"ALERT! Player 2 has 2000 points. \nSuperweapons removed! \nSuprise is indestructable for 30 seconds!"
+END
+
+MSN:ELVEN:INFSUR:alert3
+"ALERT! Player 3 has 2000 points. \nSuperweapons removed! \nSuprise is indestructable for 30 seconds!"
+END
+
+MSN:ELVEN:INFSUR:alert4
+"ALERT! Player 4 has 2000 points. \nSuperweapons removed! \nSuprise is indestructable for 30 seconds!"
+END
+
+MSN:ELVEN:INFSUR:p1f
+"ALERT! someone is trying to freez player 1 academy. Academy will be indestructable for 20 seconds!"
+END
+
+MSN:ELVEN:INFSUR:p2f
+"ALERT! someone is trying to freez player 2 academy. Academy will be indestructable for 20 seconds!"
+END
+
+MSN:ELVEN:INFSUR:p3f
+"ALERT! someone is trying to freez player 3 academy. Academy will be indestructable for 20 seconds!"
+END
+
+MSN:ELVEN:INFSUR:p4f
+"ALERT! someone is trying to freez player 4 academy. Academy will be indestructable for 20 seconds!"
+END
+
+MSN:ELVEN:INFSUR:testing
+"Congratulations. This is the final testing before the release of this map. You got that glory. Please report ANY glitches, bugs, or whatever what might not be right in chat! Creator is in game after all^^!"
+END
+
+MSN:ELVEN:INFSUR:p1backup
+"Player 1 got backup!"
+END
+
+MSN:ELVEN:INFSUR:p2backup
+"Player 2 got backup!"
+END
+
+MSN:ELVEN:INFSUR:p3backup
+"Player 3 got backup!"
+END
+
+MSN:ELVEN:INFSUR:p4backup
+"Player 4 got backup!"
+END
+
+MSN:ELVEN:INFSUR:p1dead
+"Player 1 is same as dead! \n \nHospital is now neutral!"
+END
+
+MSN:ELVEN:INFSUR:p2dead
+"Player 2 is same as dead! \n \nHospital is now neutral!"
+END
+
+MSN:ELVEN:INFSUR:p3dead
+"Player 3 is same as dead! \n \nHospital is now neutral!"
+END
+
+MSN:ELVEN:INFSUR:p4dead
+"Player 4 is same as dead! \n \nHospital is now neutral!"
+END
+
