@@ -31,6 +31,7 @@ List of included maps and campaigns with edits:
 * [AOD Washington Of Liberty](https://www.moddb.com/games/cc-red-alert-3/addons/washington-of-liberty-2-99)
 * [Hero Arena](https://www.moddb.com/games/cc-red-alert-3/addons/5dgamecn)
 * [Infantry Survival](https://www.moddb.com/games/cc-red-alert-3/addons/infantry-survival-1-9)
+* [AOD Involution](https://www.moddb.com/games/cc-red-alert-3/addons/involution-mod-3-3-14)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -113,6 +114,7 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] AOD Washington Of Liberty           | Art Of Defense | 2.99     | [#73](https://github.com/MahBoiDeveloper/RedAlert3World/issues/73) |
 | 5dgame.cn               | [RA3] Hero Arena                          | etc            | 0.5      | [#82](https://github.com/MahBoiDeveloper/RedAlert3World/issues/82) |
 | Elven                   | [RA3] Infantry Survival                   | etc            | 1.9      | [#81](https://github.com/MahBoiDeveloper/RedAlert3World/issues/81) |
+| APNHQ                   | [RA3] AOD Involution                      | Art Of Defense | 3.3.14   | [#75](https://github.com/MahBoiDeveloper/RedAlert3World/issues/75) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
