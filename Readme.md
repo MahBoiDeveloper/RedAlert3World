@@ -34,6 +34,7 @@ List of included maps and campaigns with edits:
 * [AOD Involution](https://www.moddb.com/games/cc-red-alert-3/addons/involution-mod-3-3-14)
 * [AOO Glory Cement Floor](https://www.moddb.com/games/cc-red-alert-3/addons/glory-cement-floor-8-21)
 * [AOO Encircling Circles](https://www.moddb.com/games/cc-red-alert-3/addons/encircling-circles-6-8)
+* [AOD Cunning Wolf](https://www.moddb.com/games/cc-red-alert-3/addons/td-cunning-wolf-1-26)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -119,6 +120,7 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] AOD Involution                      | Art Of Defense | 3.3.14   | [#75](https://github.com/MahBoiDeveloper/RedAlert3World/issues/75) |
 | APNHQ                   | [RA3] AOO Glory Cement Floor              | Art Of Offense | 8.21     | [#72](https://github.com/MahBoiDeveloper/RedAlert3World/issues/72) |
 | APNHQ                   | [RA3] AOO Encircling Circles              | Art Of Offense | 6.8      | [#70](https://github.com/MahBoiDeveloper/RedAlert3World/issues/70) |
+| APNHQ                   | [RA3] AOD Cunning Wolf                    | Art Of Defense | 6.8      | [#68](https://github.com/MahBoiDeveloper/RedAlert3World/issues/68) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
