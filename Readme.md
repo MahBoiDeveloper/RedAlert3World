@@ -33,6 +33,7 @@ List of included maps and campaigns with edits:
 * [Infantry Survival](https://www.moddb.com/games/cc-red-alert-3/addons/infantry-survival-1-9)
 * [AOD Involution](https://www.moddb.com/games/cc-red-alert-3/addons/involution-mod-3-3-14)
 * [AOO Glory Cement Floor](https://www.moddb.com/games/cc-red-alert-3/addons/glory-cement-floor-8-21)
+* [AOO Encircling Circles](https://www.moddb.com/games/cc-red-alert-3/addons/encircling-circles-6-8)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -116,7 +117,8 @@ This table contains information about all custom map, which has been added to th
 | 5dgame.cn               | [RA3] Hero Arena                          | etc            | 0.5      | [#82](https://github.com/MahBoiDeveloper/RedAlert3World/issues/82) |
 | Elven                   | [RA3] Infantry Survival                   | etc            | 1.9      | [#81](https://github.com/MahBoiDeveloper/RedAlert3World/issues/81) |
 | APNHQ                   | [RA3] AOD Involution                      | Art Of Defense | 3.3.14   | [#75](https://github.com/MahBoiDeveloper/RedAlert3World/issues/75) |
-| APNHQ                   | [RA3] AOO Glory Cement Floor              | Art Of Offense | 8.21     | [#75](https://github.com/MahBoiDeveloper/RedAlert3World/issues/75) |
+| APNHQ                   | [RA3] AOO Glory Cement Floor              | Art Of Offense | 8.21     | [#72](https://github.com/MahBoiDeveloper/RedAlert3World/issues/72) |
+| APNHQ                   | [RA3] AOO Encircling Circles              | Art Of Offense | 6.8      | [#70](https://github.com/MahBoiDeveloper/RedAlert3World/issues/70) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
