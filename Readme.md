@@ -58,7 +58,7 @@ Example: `MSN:ELVEN:TECHTHEFT:TIMER`
 ### Developers
 * mah_boi — project's author, maintainer
 
-## Map authors
+### Map authors
 This table contains information about all custom map, which has been added to the project.
 | Author(s)               | Map Name                                  | Game Mode      | Version  | Related Issue                                                      |
 | ----------------------- | ----------------------------------------- | -------------- | -------- | ------------------------------------------------------------------ |
