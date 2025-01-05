@@ -1,0 +1,30 @@
+name: Build Project
+
+# Workflow will trigger on any push to the master/main branch
+on: 
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  Build:
+    # Building server
+    runs-on: windows-2022
+    # Commands to complete task
+    steps:
+
+      # Cloning all repository
+      - name: Get Sources
+        uses: actions/checkout@v4
+
+      # - name: Compile Project
+        # shell: cmd
+        # run: commands
+
+      # Upload artifact to the GitHub
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: RA3World-${{github.sha}}
+          path: Source/**
