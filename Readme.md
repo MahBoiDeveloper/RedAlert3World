@@ -138,6 +138,7 @@ This table contains information about all custom map, which has been added to th
 | Vikestart               | [RA3] AOD The Apocalypse                  | Art Of Defense | 1.9      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Vikestart               | [RA3] AOD The Apocalypse 2                | Art Of Defense | 2.02     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | superblooper            | [RA3] AOD Canal Breakdown                 | Art Of Defense | 4.5      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| xionox                  | [RA3] AOD Tsunami Base                    | Art Of Defense | 1.0      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
