@@ -135,6 +135,8 @@ This table contains information about all custom map, which has been added to th
 | ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Unknown                 | [RA3] AOD Tropical Alert                  | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Tiberian_fiend          | [RA3] AOD Project Omega                   | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Vikestart               | [RA3] AOD The Apocalypse                  | Art Of Defense | 1.9      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Vikestart               | [RA3] AOD The Apocalypse 2                | Art Of Defense | 2.02     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>

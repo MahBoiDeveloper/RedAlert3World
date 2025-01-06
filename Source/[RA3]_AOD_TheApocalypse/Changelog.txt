@@ -1,0 +1,187 @@
+Extended and Improved Changelog!
+
+
+__________________________________________________________________________________________________________
+FINAL Version 1.9
+
+__________________________________________________________________________________________________________
+Version 1.8
+
+__________________________________________________________________________________________________
+Version 1.7
+
+- Fixes the team bug which makes you win if one of your allys lose! xD
+
+
+__________________________________________________________________________________________________________
+Major Version 1.6
+
+- Problem fixed where units couldn't move across the ramp to the right of all the bases.
+- You can no longer construct/unfurl buildings at the roads except for where the additional refineries are.
+
+
+
+__________________________________________________________________________________________________________
+Major Version 1.5 
+
+- Improved minimap included 
+- Lagg problem should now have been fixed. This is not 100% sure tho... 
+- Few extra textures added to base. 
+- Walls are now locked.
+- Tesla Troopers are now locked.
+- Aircraft carrier's EMP blackout missile is now disabled. 
+- Protocol problems solved. (NOTE: YOU ARE SUPPOSED TO ONLY HAVE ACCESS TO THE FIRST PROTOCOL LVL IN THE START!) 
+
+
+
+__________________________________________________________________________________________________________
+No changelog included for version 1.4, but there are still LOTS of canges and some of them are major ones. 
+
+
+
+__________________________________________________________________________________________________________
+Major Version 1.3 
+
+Design: 
+- Totally resigned cliff system. 
+- Ground height raised from 140 to 210. 
+- Water seafloor height raised from 25 to 110. 
+- Ground height level 2 raised from 200 to 280. 
+- New available paths. 
+- More space added between each cliff line near the start positions, it's now possible to walk/drive alongside the seacliffs. 
+- A lot of new textures. 
+- More Cherdenko radar events/videos and things like that in later game 
+- 8 new ore nodes added at new places that can be claimed by players in later games if they want to. 2 per player 
+- Official minimap style 
+
+Bugs: 
+- Shogun Executioner will no longer appear in the bases after only 2 minutes, but now after the timer has completed. 
+- Units no longer get stucked in the cliffs because of the new cliff system that is added in version 1.3. 
+
+
+
+__________________________________________________________________________________________________________
+Version 1.2 
+
+- Fixes the problem with the end where the game didn't end because the defeat-required Shogun Exectuioner never showed up. 
+
+
+
+__________________________________________________________________________________________________________
+Version 1.1 
+
+Let me make it clear!!! There are now 3 difficulties on the map. Easy, Medium and Hard. You chose easy by putting the opponent AI that is going to be Premier Cherdenko on easy. You chose medium by putting him as medium and you chose hard by putting him as hard or brutal. (Doesn't really matter which one you chose. Hard and brutal is the same one and before this version 1.1 there weren't difficulty levels so I can inform you that medium is just like the old difficulty level while easy is easier and hard is... um... terrible brutally hard for those who wants a real challenge instead of only fun moving units around at the battlefield xD) 
+
+- Adds round shape to a small part of the cliffs near the water so it's now possible to get out to the water without having to go around and down to the middle for doing it. 
+- Bullfrogs are now unlocked in soviet naval yard. You will no longer need to build them from WF and get them out to the water. 
+- Adds different difficulty levels to the map. Select it by chosing the difficulty of the AI. Easy is easy, medium is medium and hard/brutal is hard. The originally level is set to medium so hard is harder than ever! xD 
+- Changes the ammount of start money. In easy you get 20000 like before, in medium you get 15000 and in brutal you get 12000. 
+- Removed the enemy radar boats. 
+- Removed the outposts on each side above the side ramps and added 4 more observations tower. 2 per high side-level. 
+- Totally changed the protocol support powers system. Some are locked, some are unlocked in a different way now. 
+- Adds flying MiG's passing over Premier's launch shuttle animation. 
+- The Shogun Exectioner is now teleported to right outside of the base when it gets active at the end. Except from in hard/brutal mode, instead the 4 observation towers in your bases area gets destroyed and the shogun exectioner shows up there. 
+- Changes some of the attacks in the orginially difficulty. 
+- Natasha and Tanya is now locked and prevented from being trained. (Yuriko is locked from before) 
+- Shogun Battleships, Dreadnoughts and Aircraft Carriers are now unlocked. (Tho you are unable to shoot at the enemy's base) 
+- Flak cannons, Multigunner Turrets and Defender Turrets have now been locked in hard/brutal mode. 
+- Tesla Trooper's EMP Secondary Ability is now disabled. 
+- The hydrofoil's secondary ability gets disabled after Shogun Exectioner arrives at the end. 
+- The rocket angel is now locked to prevent you from paralyzing the Shogun Executioner. 
+- Unfortuantely, Cryocopters are now locked and cannot be buildt. 
+
+
+
+__________________________________________________________________________________________________________ 
+Version 1.0 
+
+- Version 1.0 adds different border boundaries to the battlfield. You start with a smaller battlefield which expands 2 times. 
+- Version 1.0 adds some few new starting units added and some starting structures have now got much more health. 
+- Version 1.0 adds some sounds and EVA sounds to the map. 
+- Version 1.0 have got some few structures moved 0.1 pixels 
+- Version 1.0 moves the Iron Curtain effect at the Launch Shuttle / Premier's HQ a half square to perfictiate it. 
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------- BETA VERSIONS ------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------------------------------- 
+Version Public Beta 8 
+
+- Version Beta 8 fixes the recently spawned water reflections on land problem. 
+
+
+__________________________________________________________________________________________________________
+Major Version Public Beta 7 
+
+- Version Beta 7 adds properly naval gameplay to the map by unlocking all the three factions naval yards. 
+- Version Beta 7 locks the aircraft Carrier, shogun battleship, dreadnought, naval bullfrog, naval miners and sea-wing from being constructed in the naval yards. 
+- Version Beta 7 now allows you to construct Superweapons. Ultimate Weapons are still locked tho. 
+- Version Beta 7 have got some few performances on the attack waves. 
+- Version Beta 7 now removes 3 of the 4 shogun executioners that is spawned in the end and gives the last one that is left 8.5 times more health than normal. 
+- Version Beta 7 locks the ultra-magnetic satelite protocol and unlocks the chrono rift, chrono chasm, chrono fissure and orbital drop level 1 protocols 
+- Version Beta 7 locks Yuriko from being trained. 
+- Version Beta 7 have got some other minior changes that I don't bother writing here. xD 
+
+
+
+__________________________________________________________________________________________________________
+Version Public Beta 6 
+
+- Version Beta 6 fixes a script to start which wouldn't before. 
+
+
+
+__________________________________________________________________________________________________________
+Version Public Beta 5 
+
+- Version Beta 5 fixes a HUGE lagg problem caused by Iron Curtain effects. Game will no longer lagg like that ever again. xD 
+
+
+
+__________________________________________________________________________________________________________
+Version Public Beta 4 
+
+- Version Beta 4 adds Emperor Mechas as the second last attack and 4 Shogun Executioners as the last one and they are required to be destroyed before the reinforcements can arrive. 
+- Version Beta 4 fixes some few team select mistakes for the attack waves. All attack waves are now correctly functioning. 
+- Version Beta 4 adds Iron Curtain protection to Premier Cherdenkos base to prevent players from sneaking into the base and destroy it. 
+- Version Beta 4 now makes the timer dissapear properly when it has reached zero. 
+- Version Beta 4 fixes some problems with some few units getting stucked in Cherdenko's own defence. 
+
+
+ 
+__________________________________________________________________________________________________________
+Version Public Beta 3 
+
+- Version Beta 3 locks the sudden transport. + some few more changes. 
+- Version Beta 3 adds more new and cool cinematics, radar events and cut scenes. 
+
+
+
+__________________________________________________________________________________________________________
+Version Public Beta 2 
+
+- Version Beta 2 fixes a file problem in the map folder. 
+
+
+
+
+__________________________________________________________________________________________________________
+Version Public Beta 1 
+
+- Version Beta 1 fixes a lot of problems, bugs and adds new things to the map that I can't remember now. xD 
+
+
+
+
+__________________________________________________________________________________________________________
+Older unofficial versions: 
+
+- Beta Build 0.13 disables hidden teamPlyrCillivan's superweapon detection and launching sounds. 
+- Beta Build 0.12 adds a new fresh and updated minimap and restricts some settings. 
