@@ -1,0 +1,40 @@
+MSN:UNKNOWN:TROPALERT:MapIntro01
+"Welcome back, Commander"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro02
+"The enemey is appraoching!"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro03
+"Prepare your defense and survive for 20 minutes!"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro04
+"If you survive for 20 minutes then the battle is won!"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro05
+"Good luck Commander"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro06
+"WARNING! The Shogun Executioner is appraoching from the sea!"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro07
+"WARNING! Chronosphere detected!"
+END
+
+MSN:UNKNOWN:TROPALERT:MapIntro08
+"WARNING! Car bombs inbound, keep your eyes open!"
+END
+
+MSN:UNKNOWN:TROPALERT:Error01
+"A human player is not allowed on the top of the map."
+END
+
+MSN:UNKNOWN:TROPALERT:Timer
+"Time left: "
+END
+

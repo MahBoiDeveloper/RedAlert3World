@@ -45,6 +45,7 @@ List of included maps and campaigns with edits:
 * [Tide Of Blood](https://www.moddb.com/games/cc-red-alert-3/addons/red-tide)
 * [Bomb Shell](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
 * [Allies Mission](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
+* [AOD Tropical Alert](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -132,8 +133,9 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] AOO Encircling Circles              | Art Of Offense | 6.8      | [#70](https://github.com/MahBoiDeveloper/RedAlert3World/issues/70) |
 | APNHQ                   | [RA3] AOD Cunning Wolf                    | Art Of Defense | 6.8      | [#68](https://github.com/MahBoiDeveloper/RedAlert3World/issues/68) |
 | Mirrar-x                | [RA3] Tide Of Blood                       | Cooperative    | 1.2OV    | [#67](https://github.com/MahBoiDeveloper/RedAlert3World/issues/67) |
-| chefjr84                | [RA3] Bomb Shell                          | Cooperative    | N/A    | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
-| ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A    | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| chefjr84                | [RA3] Bomb Shell                          | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Unknown                 | [RA3] AOD Tropical Alert                  | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
