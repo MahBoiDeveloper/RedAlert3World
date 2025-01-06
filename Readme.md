@@ -81,7 +81,7 @@ This table contains information about all custom map, which has been added to th
 | 666pro                  | [RA3] Finale Battle                       | Cooperative    | Beta 0.1 | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
 | Mommy_long21            | [RA3] Trapped                             | Singleplayer   | N/A      | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
 | Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia                     | Cooperative    | 1.42OV   | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
-| superblooper_alpha      | [RA3] TD Hard Mode                        | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
+| superblooper            | [RA3] TD Hard Mode                        | Tower Defense  | 5.2      | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
 | Mirrar-x                | [RA3] Desecration                         | Singleplayer   | N/A      | [#64](https://github.com/MahBoiDeveloper/RedAlert3World/issues/64) |
 | ARRIM                   | [RA3] Hand Of Death                       | Cooperative    | N/A      | [#65](https://github.com/MahBoiDeveloper/RedAlert3World/issues/65) |
 | zakthesandwarrior       | [RA3] AOO Mountain Pass                   | Art Of Offense | N/A      | [#94](https://github.com/MahBoiDeveloper/RedAlert3World/issues/94) |
@@ -137,6 +137,7 @@ This table contains information about all custom map, which has been added to th
 | Tiberian_fiend          | [RA3] AOD Project Omega                   | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Vikestart               | [RA3] AOD The Apocalypse                  | Art Of Defense | 1.9      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Vikestart               | [RA3] AOD The Apocalypse 2                | Art Of Defense | 2.02     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| superblooper            | [RA3] AOD Canal Breakdown                 | Art Of Defense | 4.5      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
