@@ -1,4 +1,3 @@
-# Red Alert 3 World
 <p align="center">
 	<a href="https://github.com/MahBoiDeveloper/RedAlert3World">
 		<img src="https://github.com/MahBoiDeveloper/RedAlert3World/blob/main/logo.png" alt="RA3 World Logo">
@@ -6,6 +5,8 @@
 </p>
 
  [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/RedAlert3World/total.svg)](https://github.com/MahBoiDeveloper/RedAlert3World/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
+
+# Red Alert 3 World
 
 ... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
