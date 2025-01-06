@@ -43,9 +43,7 @@ List of included maps and campaigns with edits:
 * [AOO Encircling Circles](https://www.moddb.com/games/cc-red-alert-3/addons/encircling-circles-6-8)
 * [AOD Cunning Wolf](https://www.moddb.com/games/cc-red-alert-3/addons/td-cunning-wolf-1-26)
 * [Tide Of Blood](https://www.moddb.com/games/cc-red-alert-3/addons/red-tide)
-* [Bomb Shell](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
-* [Allies Mission](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
-* [AOD Tropical Alert](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
+* [Mappack: sorted, organised and updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -136,6 +134,7 @@ This table contains information about all custom map, which has been added to th
 | chefjr84                | [RA3] Bomb Shell                          | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Unknown                 | [RA3] AOD Tropical Alert                  | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Tiberian_fiend          | [RA3] AOD Project Omega                   | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
