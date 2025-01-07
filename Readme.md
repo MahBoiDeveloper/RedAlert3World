@@ -141,6 +141,7 @@ This table contains information about all custom map, which has been added to th
 | xionox                  | [RA3] AOD Tsunami Base                    | Art Of Defense | 1.0      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Mad_Man_2010            | [RA3] TM Huge Fortress                    | Tank Mission   | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | KoRn                    | [RA3] TM Brain Freeze                     | Tank Mission   | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| JoKer Source            | [RA3] TM Death Metal                      | Tank Mission   | 1.3      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>

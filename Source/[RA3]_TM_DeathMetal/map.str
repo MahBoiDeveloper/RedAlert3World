@@ -1,0 +1,32 @@
+MSN:JKRSRC:DM:Ironcurtain
+"That was the last one, Iron Curtain has disable, Attack the HQ"
+END
+
+MSN:JKRSRC:DM:Start
+"That was the Mission, destroy all Iron Curtain and then the HQ"
+END
+
+MSN:JKRSRC:DM:Destroied_1
+"Iron Curtain Destroied 1/5  !!!Warning, Enemy Units!!!"
+END
+
+MSN:JKRSRC:DM:Destroied_2
+"Iron Curtain Destroied 2/5"
+END
+
+MSN:JKRSRC:DM:Destroied_3
+"Iron Curtain Destroied 3/5  !!!Warning, Enemy Units!!!"
+END
+
+MSN:JKRSRC:DM:Destroied_4
+"Iron Curtain Destroied 4/5  !!!Warning, Time Bombs!!!"
+END
+
+MSN:JKRSRC:DM:Powerplants
+"Capture the Powerplants and build a defence at the Iron Curtain"
+END
+
+MSN:JKRSRC:DM:Ultra
+"!!!! Attention !!!!  Enemy Forces"
+END
+
