@@ -144,6 +144,7 @@ This table contains information about all custom map, which has been added to th
 | anumbis                 | [RA3] TM Anumbis Mission                  | Tank Mission   | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | glenn305                | [RA3] TM Natasha: Path To Hell            | Tank Mission   | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Mando777                | [RA3] TM Strikeforce                      | Tank Mission   | 3        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| make_patata3            | [RA3] TM Think Less                       | Tank Mission   | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
