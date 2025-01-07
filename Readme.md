@@ -142,6 +142,7 @@ This table contains information about all custom map, which has been added to th
 | Mad_Man_2010            | [RA3] TM Huge Fortress                    | Tank Mission   | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | KoRn                    | [RA3] TM Brain Freeze                     | Tank Mission   | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | anumbis                 | [RA3] TM Anumbis Mission                  | Tank Mission   | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| glenn305                | [RA3] TM Natasha: Path To Hell            | Tank Mission   | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
