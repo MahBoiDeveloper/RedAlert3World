@@ -35,6 +35,7 @@ body:
         - Art Of Offense
         - Tower Defense
         - Capture Point
+        - Tank Mission
         - etc
     validations:
       required: true
