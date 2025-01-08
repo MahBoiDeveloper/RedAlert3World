@@ -9153,7 +9153,7 @@
 			BorderSize="30"
 			CRC="0"
 			Description="Map:[RA3]_TM_Strikeforce/Desc"
-			DisplayName="Operation_Strikeforce_v3"
+			DisplayName="[RA3] TM Strikeforce"
 			FileName="data\maps\[ra3]_tm_strikeforce\[ra3]_tm_strikeforce.map"
 			Height="560"
 			IsMultiplayer="false"
@@ -9229,7 +9229,7 @@
 				Value="1"/>
 			<StringProperty
 				Key="mapName"
-				Value="Operation_Strikeforce_v3"/>
+				Value="[RA3] TM Strikeforce"/>
 			<StringProperty
 				Key="mapDescription"
 				Value="by: Mando777"/>
