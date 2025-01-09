@@ -153,6 +153,7 @@ This table contains information about all custom map, which has been added to th
 | 12123434_number_guy     | [RA3] TD Death Defense                    | Tower Defense  | 3.2      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | 12123434_number_guy     | [RA3] TD Death Defense 2                  | Tower Defense  | 2.8      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Unknown                 | [RA3] TD Death Canyon                     | Tower Defense  | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| 31773177                | [RA3] TD Island                           | Tower Defense  | α2.1     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
