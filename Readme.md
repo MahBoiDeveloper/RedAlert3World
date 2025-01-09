@@ -151,6 +151,7 @@ This table contains information about all custom map, which has been added to th
 | Reefer                  | [RA3] TD Something Like                   | Tower Defense  | 1.0      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | djackal2010             | [RA3] TD Four                             | Tower Defense  | 3        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | 12123434_number_guy     | [RA3] TD Death Defense                    | Tower Defense  | 3.2      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| 12123434_number_guy     | [RA3] TD Death Defense 2                  | Tower Defense  | 2.8      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
