@@ -1,0 +1,52 @@
+MSN:DERODOR:TD:nextwave
+"Time untill next wave:"
+END
+
+MSN:DERODOR:TD:air
+"Dont forget to build AA!"
+END
+
+MSN:DERODOR:TD:nextisair
+"The next wave is air!"
+END
+
+MSN:DERODOR:TD:derodor
+"Map made by Derodor"
+END
+
+MSN:DERODOR:TD:3k
+"Reward for the Boss: $3,000"
+END
+
+MSN:DERODOR:TD:5k
+"Reward for the Boss: $5,000"
+END
+
+MSN:DERODOR:TD:8k
+"Reward for the Boss: $8,000"
+END
+
+MSN:DERODOR:TD:10k
+"Reward for the Boss: $10,000"
+END
+
+MSN:DERODOR:TD:hard
+"This Tower Defence Map is very HARD! So prepare!"
+END
+
+MSN:DERODOR:TD:tut
+"The goal of the game is to build Towers and Units to stop the incoming waves of enemies."
+END
+
+MSN:DERODOR:TD:bosshp
+"Boss HP left:"
+END
+
+MSN:DERODOR:TD:kirovhp
+"Kirov Boss HP left:"
+END
+
+MSN:DERODOR:TD:mechahp
+"Emperor Mecha HP left:"
+END
+

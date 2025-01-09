@@ -155,6 +155,11 @@ This table contains information about all custom map, which has been added to th
 | Unknown                 | [RA3] TD Death Canyon                     | Tower Defense  | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | 31773177                | [RA3] TD Island                           | Tower Defense  | α2.1     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | JustHank                | [RA3] TD Attack Of The City               | Tower Defense  | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| wisley                  | [RA3] TD Desert Highway                   | Tower Defense  | 1        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| stroggs                 | [RA3] TD Greenfield                       | Tower Defense  | 1.4.6    | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Derodor                 | [RA3] TD Untitled                         | Tower Defense  | 1.42     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| superblooper            | [RA3] TD Stronghold                       | Tower Defense  | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| superblooper            | [RA3] TD Stronghold 2                     | Tower Defense  | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
