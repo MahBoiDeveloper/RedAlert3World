@@ -1,0 +1,28 @@
+MSN:JTF:TDAOTC:INTROTEXT
+"ATTACK OF THE CITY by JustHank"
+END
+
+MSN:JTF:TDAOTC:MISSIONTEXT
+"Large numbers of evil terrorist forces are preparing to assault the World Homeless Children's Hospital and you're all that's in their way!  The worst part is it seems they're converting the entire city to their effort.  We only have a few minutes before they begin their assault.  We'll begin the evacuation process while you hold the line.  Good luck, commander."
+END
+
+MSN:JTF:TDAOTC:HALFTEXT
+"Commander, the enemy troops have made it halfway to us. DO NOT LET THEM ACROSS THE FINAL BRIDGE!"
+END
+
+MSN:JTF:TDAOTC:WARNTEXT
+"Commander enemy units are more than 3/4 of the way out of the city. Stop them while you can!"
+END
+
+MSN:JTF:TDAOTC:FWTEXT
+"COMMANDER, HELP US! THE ENEMY IS ON THE FINAL STRETCH!"
+END
+
+MSN:JTF:TDAOTC:FINALTEXT
+"Commander, evac is almost complete.  Hold the line until everyone is out!"
+END
+
+MSN:JTF:TDAOTC:FINALCOUNTDOWN
+"Evac Complete In"
+END
+
