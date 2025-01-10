@@ -134,7 +134,7 @@ This table contains information about all custom map, which has been added to th
 | chefjr84                | [RA3] Bomb Shell                          | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Unknown                 | [RA3] AOD Tropical Alert                  | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
-| Tiberian_fiend          | [RA3] AOD Project Omega                   | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| TiberianFiend           | [RA3] AOD Project Omega                   | Art Of Defense | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Vikestart               | [RA3] AOD The Apocalypse                  | Art Of Defense | 1.9      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Vikestart               | [RA3] AOD The Apocalypse 2                | Art Of Defense | 2.02     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | superblooper            | [RA3] AOD Canal Breakdown                 | Art Of Defense | 4.5      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
@@ -160,6 +160,7 @@ This table contains information about all custom map, which has been added to th
 | Derodor                 | [RA3] TD Untitled                         | Tower Defense  | 1.42     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | superblooper            | [RA3] TD Stronghold                       | Tower Defense  | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | superblooper            | [RA3] TD Stronghold 2                     | Tower Defense  | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Deathler                | [RA3] Infantry Wars                     | etc  | 2.2c        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
