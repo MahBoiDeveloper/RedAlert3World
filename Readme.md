@@ -162,6 +162,7 @@ This table contains information about all custom map, which has been added to th
 | superblooper            | [RA3] TD Stronghold 2                     | Tower Defense  | 4        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Deathler                | [RA3] Infantry Wars                       | etc            | 2.2c     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | mungovin                | [RA3] The Red Alert Colosseum             | etc            | N/A      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| <ShArK                  | [RA3] Infantry Battlefield                | etc            | 1.9ok    | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
