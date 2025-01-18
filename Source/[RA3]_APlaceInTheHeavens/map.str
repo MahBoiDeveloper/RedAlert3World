@@ -1,0 +1,104 @@
+MSN:TIBFIEND:HEAVENS:ExplainStart
+"Welcome Commanders"
+END
+
+MSN:TIBFIEND:HEAVENS:ExplainStartpart2
+"During this map your funds will only reach a maximum of 5000 Credits, they will be refunded slowly over time. \nWe have also authorised you the use of support powers for your defence, offence and support."
+END
+
+MSN:TIBFIEND:HEAVENS:ExplainStartpart3
+"This map has a number of control points, owning them can give you more of an insight as to where your enemies are. \nOwning them all will make you the winner so make sure you have one commander, they apper as allied outposts and japanese long range radars. \nCapturing 2 Radars will send a message to high command for higher technology, you will need to hold 2 radars for 2.5 minutes and will be paused if you own less."
+END
+
+MSN:TIBFIEND:HEAVENS:ExplainStartpart4
+"There are many ways in which you can kill a specific player. \nMost simple is to destroy their tech structure, You can also capture it or even infiltrate it twice to kill the player, but remember this applies to you too, so be carefull commander."
+END
+
+MSN:TIBFIEND:HEAVENS:ExplainFinish
+"Good Luck Commanders \n \nTransfering Battle Field Control..."
+END
+
+MSN:TIBFIEND:HEAVENS:SightOutpostInfo
+"This outpost bestows a recon team ability"
+END
+
+MSN:TIBFIEND:HEAVENS:HealthOutpostInfo
+"This outpost bestows an extra 50 credits during cash intervals"
+END
+
+MSN:TIBFIEND:HEAVENS:GarageOutpostInfo
+"This outpost bestows armour health regeneration"
+END
+
+MSN:TIBFIEND:HEAVENS:HospOutpostInfo
+"This outpost bestows infantry health regeneration"
+END
+
+MSN:TIBFIEND:HEAVENS:ExplainCap
+"You have reached your Population cap. \nlosing your current units in battle will reduce the number of unit you have in total."
+END
+
+MSN:TIBFIEND:HEAVENS:ExplIntro
+"Click to start the intro to see the rules or wait 30 secs to get straight into the game \n(2 votes required)"
+END
+
+MSN:TIBFIEND:HEAVENS:ExplIntTTL
+"Do you want to see the intro? \n Optionaly wait 30 secs to get straight into the game"
+END
+
+MSN:TIBFIEND:HEAVENS:ClicktoVote
+"Do you want to see the Intro? \nClick on the Hotspot"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTradition
+"Click on this unit to accept "Traditional Clan" as your choice"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTech
+"Click on this unit to accept "Technological Clan" as your choice"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTrd1
+"Do You Want To Have A Traditional Force?"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTech1
+"Do You Want To Have A Technological Force?"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTrd2
+"Click "Execute" to pick "Traditional" clan \nHighlights Include: \nShinobi \nTsunami Tank \nChrono Swap"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanTech2
+"Click "Execute" to pick "Tech" clan \nHighlights Include: \nAllied Spy \nIFV Gunner \nPoint-Defences-Drones"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanRandom
+"Select your Clan \n \nClick on this unit to accept a random clan as your choice \n \n \n \n"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanRnd1
+"Do You Want To Have A Random Choice?"
+END
+
+MSN:TIBFIEND:HEAVENS:ClanRnd2
+"Click "Execute" to pick a random clan \nHighlights Include: \nNot having to pick with or without thought."
+END
+
+MSN:TIBFIEND:HEAVENS:TimerStart
+"Time Until Voting For Intro Over:"
+END
+
+MSN:TIBFIEND:HEAVENS:BattleField
+"Commanders battlefield access is now available, \nGood Luck!"
+END
+
+MSN:TIBFIEND:HEAVENS:RadarsTitle
+"Capture and hold 2 radar towers for 2 and a half minutes to request new technology to aid"
+END
+
+MSN:TIBFIEND:HEAVENS:Radartech
+"Capture and hold 2 radar towers for 2 and a half minutes to request new technology to aid"
+END
+
