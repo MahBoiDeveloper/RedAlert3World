@@ -165,6 +165,7 @@ This table contains information about all custom map, which has been added to th
 | <ShArK                  | [RA3] Infantry Battlefield                | etc            | 1.9ok    | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | chefjr84                | [RA3] Infantry Battlegrounds              | etc            | 2        | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | TiberianFiend           | [RA3] A Place In The Heavens              | etc            | 1.3      | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| Mando777                | [RA3] TetrAlert                           | etc            | beta     | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>

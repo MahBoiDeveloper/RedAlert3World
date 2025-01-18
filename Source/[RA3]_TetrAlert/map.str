@@ -1,0 +1,24 @@
+MSN:Mando777:TETRALERT:WELCOME
+"Welcome to "TetrAlert" by Mando777. Move your unit to the top of the column to drop a game piece, get 4 pieces in a row to win!"
+END
+
+MSN:Mando777:TETRALERT:p1wins
+"Player 1 wins!"
+END
+
+MSN:Mando777:TETRALERT:p2wins
+"Player 2 wins!"
+END
+
+MSN:Mando777:TETRALERT:Time1
+"Player 1 Timer: "
+END
+
+MSN:Mando777:TETRALERT:Time2
+"Player 2 Timer: "
+END
+
+MSN:Mando777:TETRALERT:tie
+"It's a tie, how boring."
+END
+
