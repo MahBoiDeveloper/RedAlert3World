@@ -1,0 +1,21 @@
+Version 1.0:::::::::::::::::::::::::::::::::::::::
+
+The fricking map is released
+
+Version 1.1:::::::::::::::::::::::::::::::::::::::
+
+Removed Playercreeps.
+Moved MCV to in base.
+Let people have money so the spy can actually have a use.
+Improved Intro
+Rebalanced Heli pack.
+Fixed Gaurdian Tank purchase.
+Improved textures and terrain.
+Switched futuretech with a fortress power core.'
+
+version 1.2:::::::::::::::::::::::::::::::::::::
+
+Added engineer bonuses from 110-200, every 10 kills.
+Added imploders to the devistators >:)
+Fixed player 4 yuriko glitch.
+New minimap, made by Videogmer!

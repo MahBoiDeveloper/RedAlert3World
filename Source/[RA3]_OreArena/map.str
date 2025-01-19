@@ -1,0 +1,124 @@
+MSN:UNKNOWN:OREARENA:Bye
+"Good evening commander, I do hope you will be enjoying yourself on this nice map I made, I persume you will, this map was made by EvilConker, the original Tiberium Wars version, was called Blood Arena and was made by Wiwiweb."
+END
+
+MSN:UNKNOWN:OREARENA:P1kills
+"P1 Kills"
+END
+
+MSN:UNKNOWN:OREARENA:P2kills
+"P2 Kills"
+END
+
+MSN:UNKNOWN:OREARENA:P3kills
+"P3 Kills"
+END
+
+MSN:UNKNOWN:OREARENA:P4kills
+"P4 Kills"
+END
+
+MSN:UNKNOWN:OREARENA:intro1
+"This is the main battle area, most people like to call this the center of the map, this is where most skirmishes will take place."
+END
+
+MSN:UNKNOWN:OREARENA:intro2
+"This is the shop area, here you will buy units, the number of units you see is the number you'll get, the number infront of the units is how many engineers you need in that area."
+END
+
+MSN:UNKNOWN:OREARENA:intro3
+"This is where your engineers will spawn, an engineer spawns every 30 seconds, but claiming a kill milestone gets you an extra one, the kill milestones are every ten kills untill 200."
+END
+
+MSN:UNKNOWN:OREARENA:intro4
+"This is where your special engineers will spawn, special engineers can let you do many things, they go in the area next to the structure that has your player number, special engineer milestones are 25, 50, 100, 150, and 200."
+END
+
+MSN:UNKNOWN:OREARENA:intro5
+"The special structures are as follows, Psyonic decimator = activates the central devistators, Powerplant = causes an EMP that disables all players (except yours) base defenses to go offine for two minutes, Defense Berau = Gives you an extra layer of defenses, Long Range Radar = Allows the bear in the shop to be controlled by a player for a limited amount of time."
+END
+
+MSN:UNKNOWN:OREARENA:intro6
+"Have fun, remember, kill a player by destroying his fortress power core, kill all enemy players to win, or get 500 kills to kill all enemy players, enjoy and have fun!"
+END
+
+MSN:UNKNOWN:OREARENA:P1yay
+"Player 1 has just earned a bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P2yay
+"Player 2 has just earned a bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P3yay
+"Player 3 has just earned a bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P4yay
+"Player 4 has just earned a bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P1syay
+"Player 1 has just earned a special bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P2syay
+"Player 2 has just earned a special bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P3syay
+"Player 3 has just earned a special bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:P4syay
+"Player 4 has just earned a special bonus engineer!"
+END
+
+MSN:UNKNOWN:OREARENA:warningdev
+"Warning! Central Devistators Activated!"
+END
+
+MSN:UNKNOWN:OREARENA:warningemp
+"Warning! EMP blast detecected!"
+END
+
+MSN:UNKNOWN:OREARENA:warningbear
+"Warning! Agressive animal behavior detected!"
+END
+
+MSN:UNKNOWN:OREARENA:special1
+"Use this to activate the oh so feared central devestators!"
+END
+
+MSN:UNKNOWN:OREARENA:special2
+"Use this to send a rippling EMP blast that disables all enemy defenses!"
+END
+
+MSN:UNKNOWN:OREARENA:special3
+"Need a bit more armor? Use this to give your base a bit more of a defensive boost!"
+END
+
+MSN:UNKNOWN:OREARENA:special4
+"The most bastardly move you can make in this map, use this to mind control the soviet war bear in the shop arena for 30 seconds, wrecking havoc upon the defenseless engineers! Be warned though, you can only use it once."
+END
+
+MSN:UNKNOWN:OREARENA:elevator1
+"Please use these elevators with respect, only one engineer per player per time, do not overclog these elevators or they will seize to work."
+END
+
+MSN:UNKNOWN:OREARENA:elevator2
+"Going up?"
+END
+
+MSN:UNKNOWN:OREARENA:elevator3
+"Going down to the bottom of the shop?"
+END
+
+MSN:UNKNOWN:OREARENA:commando
+"Get 20 engineers at that black square over there, and you will get a special engineer that can purchase the commandoes, please note, you can only have one commando per time."
+END
+
+MSN:UNKNOWN:OREARENA:EliteCombo
+"Please note that this is an expansion pack, you must have purchased king oni's, apoc tanks, and mirage tanks for this to work, otherwise, you have no reason to buy it."
+END
+
