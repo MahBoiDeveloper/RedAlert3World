@@ -1,0 +1,220 @@
+MSN:RUICAdanf:ZONECTR:P1ZONES
+"Player 1 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P2ZONES
+"Player 2 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P3ZONES
+"Player 3 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P4ZONES
+"Player 4 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P5ZONES
+"Player 5 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P6ZONES
+"Player 6 Zones: "
+END
+
+MSN:RUICAdanf:ZONECTR:P1START
+"PLAYER 1"
+END
+
+MSN:RUICAdanf:ZONECTR:P2START
+"PLAYER 2"
+END
+
+MSN:RUICAdanf:ZONECTR:P3START
+"PLAYER 3"
+END
+
+MSN:RUICAdanf:ZONECTR:P4START
+"PLAYER 4"
+END
+
+MSN:RUICAdanf:ZONECTR:P5START
+"PLAYER 5"
+END
+
+MSN:RUICAdanf:ZONECTR:P6START
+"PLAYER 6"
+END
+
+MSN:RUICAdanf:ZONECTR:INTRO1
+"ZONE CONTROL Version 1.4"
+END
+
+MSN:RUICAdanf:ZONECTR:INTRO2
+"RULES: To win you must destroy all enemy bunkers or take all the 70 zones. You can do that with the Kyrov (for 250 credits) if you move it over a white or gray zone."
+END
+
+MSN:RUICAdanf:ZONECTR:INTRO3
+"Every bunker spawn unit that you can select with your engineer which is near your bunker. Every zone under control can spawn a maximum of 20 unit."
+END
+
+MSN:RUICAdanf:ZONECTR:INTRO4
+"For make credits you can kill enemy unit, the "BASIC UNITS" give from 1 to 4, the "HERO UNITS" give from 8 to 15. The "MINI MECHA KING" give 500, but it can be spawn only once."
+END
+
+MSN:RUICAdanf:ZONECTR:INTRO5
+"THAT'S ALL. GOOD GAME"
+END
+
+MSN:RUICAdanf:ZONECTR:CREDITS
+"MAP CREATED MY R.UIC×Adanf .all right reserved ;-)"
+END
+
+MSN:RUICAdanf:ZONECTR:ENGMOVER
+"If you move the engineer over a dark square you will move all you combat units in the selected area over the battlefield"
+END
+
+MSN:RUICAdanf:ZONECTR:L1
+"25 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:L2
+"50 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:L3
+"125 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:L4
+"200 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:CASUALHERO
+"Casual: 75 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:HEROANTIINFANTRY
+"75 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLIESCOMMANDO
+"300 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:SOVIETCOMMANDO
+"375 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:JAPANCOMMANDO
+"450 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:MECHAKING
+"1000 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:CRONOSHIFT
+"400 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:IRONCURTAIN
+"500 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:VACUUMBOMB
+"600 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:NANOSHIELD
+"50 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:EMPERORRETRIB
+"100 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:SURGICALSTRIKE
+"150 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:CRYOSAT
+"200 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:TIMEBOMB
+"250 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:BALOONBOMB
+"300 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:SATDROP
+"350 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:AIRKAMIKAZE
+"400 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:DESOLATORDELTA
+"500 Credits"
+END
+
+MSN:RUICAdanf:ZONECTR:UNITSPECIAL
+"If you move this enginer in a "SPECIAL BOX" or "SUPER WEAPON BOX" your receive the selected special or sw"
+END
+
+MSN:RUICAdanf:ZONECTR:UNITCASH
+"If you move this enginer in a "UNIT BOX" or "HERO BOX" you receive the selected unit or hero"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP1
+"PLAYER 1 HAVE UNDER CONTROL ALL ZONE"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP2
+"PLAYER 2 HAVE UNDER CONTROL ALL ZONE"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP3
+"PLAYER 3 HAVE UNDER CONTROL ALL ZONE"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP4
+"PLAYER 4 HAVE UNDER CONTROL ALL ZONE"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP5
+"PLAYER 5 HAVE UNDER CONTROL ALL ZONE"
+END
+
+MSN:RUICAdanf:ZONECTR:ALLZONESP6
+"PLAYER 6 HAVE UNDER CONTROL ALL ZONE! HE WIN!"
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE1
+"Player 1 WILL LOSE IN: "
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE2
+"Player 2 WILL LOSE IN: "
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE3
+"Player 3 WILL LOSE IN: "
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE4
+"Player 4 WILL LOSE IN: "
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE5
+"Player 5 WILL LOSE IN: "
+END
+
+MSN:RUICAdanf:ZONECTR:FINALLOSE6
+"Player 6 WILL LOSE IN: "
+END
+
