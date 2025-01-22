@@ -171,6 +171,7 @@ This table contains information about all custom map, which has been added to th
 | Mando777                | [RA3] Pacman                              | etc            | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | FRISH                   | [RA3] Spwnage Arena                       | etc            | 1.01 Beta | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | R.UIC×Adanf             | [RA3] Zone Control                        | etc            | 1.4       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| EvilConker              | [RA3] Defense Arena                       | etc            | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
