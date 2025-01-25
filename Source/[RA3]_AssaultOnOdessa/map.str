@@ -1,0 +1,28 @@
+MSN:TIBFIEND:ASSONOD:SovitObjectives
+"Welcome Commanders \nFor this battle you will be involved in the battle to save/destory Odessa. \n \nIf you are the soviets then your objective is to protect this structure and the VIP Bunker from the Japanese Players"
+END
+
+MSN:TIBFIEND:ASSONOD:SovitArtillery
+"Each Soviet Player will have a number of artillery postions. \nalthough the japanese players are'nt required to take them out, it is advised as they deal huge damage"
+END
+
+MSN:TIBFIEND:ASSONOD:Outposts1
+"The Soviets will also have a number of small outposts. \nEach with Tesla Coils as Defensive weapons"
+END
+
+MSN:TIBFIEND:ASSONOD:Outposts2
+"These Soviet bases won't all be the same, but they will contain \n Ether a super power plant or production Structres like a barracks or war factory"
+END
+
+MSN:TIBFIEND:ASSONOD:Final
+"This is where the Japanese Super Unit will be produced. \nfor a fighting chance, the soviets must be prepared for it,the japanese player will also get help from their Emperor. \nPlease note the transport will arrive in 5 minutes and that the soviets cannot damage them because they are invunrable. \n \nMap Re-scripted by Tiberian Fiend, Have Fun!"
+END
+
+MSN:TIBFIEND:ASSONOD:Timer
+"Time-Left Till Transport Arrive:"
+END
+
+MSN:TIBFIEND:ASSONOD:Error
+"This message only pops up when a player Owns a MCV/faction which doesn't belong here(you should leave your faction Random)n \n\Player 1-2 (soviets),3-4(Japanese) should be on same team and if they wanted to be japan, all they need to do is change their postions so they aren't in the top right corner of the mini map on start up. \n \n Lucky for you this message Deletes itself when you delete your mcv,you can make a new one with a war factory which has been given to you."
+END
+
