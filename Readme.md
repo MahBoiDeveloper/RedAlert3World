@@ -44,6 +44,7 @@ List of included maps and campaigns with edits:
 * [AOD Cunning Wolf](https://www.moddb.com/games/cc-red-alert-3/addons/td-cunning-wolf-1-26)
 * [Tide Of Blood](https://www.moddb.com/games/cc-red-alert-3/addons/red-tide)
 * [Mappack: sorted, organised and updated](https://steamcommunity.com/sharedfiles/filedetails/?id=2262399750)
+* [New Red Alert 3 Maps for COOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2748840488)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -174,6 +175,7 @@ This table contains information about all custom map, which has been added to th
 | EvilConker              | [RA3] Defense Arena                       | etc            | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Mando777                | [RA3] War Arena                           | etc            | 3.5       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Reefer                  | [RA3] TD Jungle Defense                   | Tower Defense  | 3.0       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| TiberianFiend           | [RA3] Assasin's Shadows                   | etc            | 1.5       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
