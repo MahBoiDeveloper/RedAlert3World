@@ -177,6 +177,7 @@ This table contains information about all custom map, which has been added to th
 | Reefer                  | [RA3] TD Jungle Defense                   | Tower Defense  | 3.0       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | TiberianFiend           | [RA3] Assasin's Shadows                   | etc            | 1.5       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | TiberianFiend           | [RA3] Assault On Odessa                   | Cooperative    | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| chefjr84                | [RA3] Elite Showdown                      | etc            | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
