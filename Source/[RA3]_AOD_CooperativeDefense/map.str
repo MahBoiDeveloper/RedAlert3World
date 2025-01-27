@@ -1,0 +1,180 @@
+MSN:QQ86126146:COOPDEF:MapIntro:SelectHint
+"Please move your Natasha to a difficulty field. \n \nMove Tesla trooper to OK field to StartGame."
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:01
+"Welcome Commander!"
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:02
+"This is a two person cooperative defense Map."
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:03
+"The enemey is appraoching!"
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:04
+"Prepare your defense and survive for 24.3 minutes!Fifteen times attack."
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:05
+"If you kill kings then the battle is won!protect oil wells,if not,gameover."
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:06
+"Good luck Commander! \nRed Alert 3 fans QQ Group:24084400 \nAuthor's QQ:86126146"
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:07
+"WARNING! Two kings is appraoching!"
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:08
+"All player are Computer, \n \nif attacker's faction is Allies then game start easy. \n \nif Soviet,then medium.if Japan,then hard."
+END
+
+MSN:QQ86126146:COOPDEF:MapIntro:09
+"Attacker is a human player. This game cannot continue."
+END
+
+MSN:QQ86126146:COOPDEF:MapPrompt:oil
+"protect these oil well."
+END
+
+MSN:QQ86126146:COOPDEF:MapPrompt:ThreeHero
+"approach the hero and get it."
+END
+
+MSN:QQ86126146:COOPDEF:MapPrompt:hideking
+"secret building."
+END
+
+MSN:QQ86126146:COOPDEF:MapPrompt:rest
+"If you need pause,order me near by Portrait stone."
+END
+
+MSN:QQ86126146:COOPDEF:Time
+"All left:"
+END
+
+MSN:QQ86126146:COOPDEF:TIME:01
+"First wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:01
+"Intelligence:Peacekeeper,Javelin soldier,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:02
+"Second wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:02
+"Intelligence:Imperial warrior,Rocket Angel,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:03
+"Third wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:03
+"Intelligence:Conscript,Tesla trooper,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:04
+"Fourth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:04
+"Intelligence:Riptide ACV,Multigunner IFV,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:05
+"Fifth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:05
+"Intelligence:Striker VX,Rocket Angel,Tsunami tank,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:06
+"Sixth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:06
+"Intelligence:Hammer tank,Twinblade,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:07
+"Seventh Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:07
+"Intelligence:Guardian tank,Assault destroyer,Apollo fighter,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:08
+"Eighth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:08
+"Intelligence:Tsunami tank,Striker VX,Mecha Tengu,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:09
+"Ninth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:09
+"Intelligence:Tesla tank,MiG Fighter,Twinblade,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:10
+"Tenth Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:10
+"Intelligence:Athena Cannon,Century bomber,Apollo fighter,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:11
+"Eleventh Wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:11
+"Intelligence:King Oni,Wave-Force artillery,Shogun Battleship,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:12
+"Twelfth wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:12
+"Intelligence:V4 Rocket Launcher,Tesla Tank,Twinblade,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:13
+"Thirteenth wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:13
+"Intelligence:Century Bomber,Sea Wing,Shogun Battleship,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:14
+"Fourteenth wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:14
+"Intelligence:Apocalypse Tank,Kirov Airship,V4 Rocket Launcher,etc."
+END
+
+MSN:QQ86126146:COOPDEF:TIME:15
+"Last wave left: "
+END
+
+MSN:QQ86126146:COOPDEF:intelligence:15
+"Intelligence:Shogun Executioner,King Oni X,Yurico Omega,etc."
+END
+
