@@ -7,7 +7,6 @@
  [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/RedAlert3World/total.svg)](https://github.com/MahBoiDeveloper/RedAlert3World/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
 # Red Alert 3 World
-
 ... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
 List of included maps and campaigns with edits:
@@ -69,6 +68,7 @@ Example: `MSN:ELVEN:TECHTHEFT:TIMER`
 
 ### Map authors
 This table contains information about all custom map, which has been added to the project.
+
 | Author(s)               | Map Name                                  | Game Mode      | Version   | Related Issue                                                      |
 | ----------------------- | ----------------------------------------- | -------------- | --------- | ------------------------------------------------------------------ |
 | Mirrar-x                | [RA3] Time To Repentance                  | Cooperative    | 1.3       | [#55](https://github.com/MahBoiDeveloper/RedAlert3World/issues/55) |
@@ -179,6 +179,8 @@ This table contains information about all custom map, which has been added to th
 | TiberianFiend           | [RA3] Assault On Odessa                   | Cooperative    | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | chefjr84                | [RA3] Elite Showdown                      | etc            | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | Unknown                 | [RA3] Warzone Arena                       | etc            | Beta 3    | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| Elven                   | [RA3] Terrifying Future                   | Cooperative    | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+<!-- | QQ86126146              | [RA3] AOD Cooperative Defense             | Art Of Defense | 2.3       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) | -->
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
