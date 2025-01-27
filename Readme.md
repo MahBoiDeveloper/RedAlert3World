@@ -182,6 +182,10 @@ This table contains information about all custom map, which has been added to th
 | Elven                   | [RA3] Terrifying Future                   | Cooperative    | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | QQ86126146              | [RA3] AOD Cooperative Defense             | Art Of Defense | 2.3       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | chefjr84                | [RA3] Blackout Maze                       | Cooperative    | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| Unknown                 | [RA3] Jungle Ambush                       | etc            | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| Unknown                 | [RA3] AOD Tropical Technology             | Art Of Defense | Beta      | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| samo56                  | [RA3] Blood Arena                         | etc            | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| 1212                    | [RA3] TD Mad Death Defense                | Tower Defense  | 1.0       | [#80](https://github.com/MahBoiDeveloper/RedAlert3World/issues/80) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
