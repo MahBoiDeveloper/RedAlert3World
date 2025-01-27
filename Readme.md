@@ -181,6 +181,7 @@ This table contains information about all custom map, which has been added to th
 | Unknown                 | [RA3] Warzone Arena                       | etc            | Beta 3    | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | Elven                   | [RA3] Terrifying Future                   | Cooperative    | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | QQ86126146              | [RA3] AOD Cooperative Defense             | Art Of Defense | 2.3       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
+| chefjr84                | [RA3] Blackout Maze                       | Cooperative    | N/A       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
