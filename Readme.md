@@ -188,6 +188,7 @@ This table contains information about all custom map, which has been added to th
 | Unknown                 | [RA3] AOD Tropical Technology             | Art Of Defense | Beta      | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | samo56                  | [RA3] Blood Arena                         | etc            | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | 1212                    | [RA3] TD Mad Death Defense                | Tower Defense  | 1.0       | [#80](https://github.com/MahBoiDeveloper/RedAlert3World/issues/80) |
+| iron151615              | [RA3] Power Of The Kirovs                 | Cooperative    | N/A       | [#32](https://github.com/MahBoiDeveloper/RedAlert3World/issues/32) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
