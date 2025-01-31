@@ -46,6 +46,7 @@ List of included maps and campaigns with edits:
 * [New Red Alert 3 Maps for COOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2748840488)
 * [352 Red Alert 3 Map Pack](https://www.moddb.com/games/cc-red-alert-3/addons/352-red-alert-3-map-pack)
 * [Red Alert 3 T.D. AND A.o.D. MAP PACK](https://www.moddb.com/games/cc-red-alert-3/addons/red-alert-3-td-and-aod-map-pack)
+* [Iron1516 cooperative campaigns](https://users.playground.ru/2792319/posts)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -53,12 +54,9 @@ Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
 ## About `map.str` format used in the repository
 All strings in `map.str` follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
 
-* Mapper name:
-  * Full mapper name or abbreviation without whitespaces.
-* Map name:
-  * Full map name or it abbreviation without whitespaces.
-* String name:
-  * String name or it abbreviation without whitespaces.
+* Mapper name: Full mapper name or abbreviation without whitespaces.
+* Map name: Full map name or it abbreviation without whitespaces.
+* String name: String name or it abbreviation without whitespaces.
 
 Example: `MSN:ELVEN:TECHTHEFT:TIMER`
 
@@ -188,7 +186,8 @@ This table contains information about all custom map, which has been added to th
 | Unknown                 | [RA3] AOD Tropical Technology             | Art Of Defense | Beta      | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | samo56                  | [RA3] Blood Arena                         | etc            | 1.1       | [#62](https://github.com/MahBoiDeveloper/RedAlert3World/issues/62) |
 | 1212                    | [RA3] TD Mad Death Defense                | Tower Defense  | 1.0       | [#80](https://github.com/MahBoiDeveloper/RedAlert3World/issues/80) |
-| iron151615              | [RA3] Power Of The Kirovs                 | Cooperative    | N/A       | [#32](https://github.com/MahBoiDeveloper/RedAlert3World/issues/32) |
+| Iron1516                | [RA3] Power Of The Kirovs                 | Cooperative    | N/A       | [#32](https://github.com/MahBoiDeveloper/RedAlert3World/issues/32) |
+| Iron1516                | [RA3] Conscript And Bear                  | Cooperative    | N/A       | [#31](https://github.com/MahBoiDeveloper/RedAlert3World/issues/31) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
