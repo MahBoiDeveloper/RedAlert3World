@@ -192,6 +192,9 @@ This table contains information about all custom map, which has been added to th
 | Iron1516                | [RA3] Iron1516's Allied 1                 | Cooperative    | N/A       | [#34](https://github.com/MahBoiDeveloper/RedAlert3World/issues/34) |
 | Iron1516                | [RA3] Iron1516's Allied 2                 | Cooperative    | N/A       | [#35](https://github.com/MahBoiDeveloper/RedAlert3World/issues/35) |
 | Iron1516                | [RA3] Iron1516's Allied 3                 | Cooperative    | N/A       | [#36](https://github.com/MahBoiDeveloper/RedAlert3World/issues/36) |
+| Iron1516                | [RA3] Iron1516's Soviet 1                 | Cooperative    | N/A       | [#96](https://github.com/MahBoiDeveloper/RedAlert3World/issues/96) |
+| Iron1516                | [RA3] Iron1516's Soviet 2                 | Cooperative    | N/A       | [#96](https://github.com/MahBoiDeveloper/RedAlert3World/issues/96) |
+| Iron1516                | [RA3] Iron1516's Soviet 3                 | Cooperative    | N/A       | [#96](https://github.com/MahBoiDeveloper/RedAlert3World/issues/96) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
