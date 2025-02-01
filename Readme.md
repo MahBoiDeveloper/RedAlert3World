@@ -189,6 +189,7 @@ This table contains information about all custom map, which has been added to th
 | Iron1516                | [RA3] Power Of The Kirovs                 | Cooperative    | N/A       | [#32](https://github.com/MahBoiDeveloper/RedAlert3World/issues/32) |
 | Iron1516                | [RA3] Conscript And Bear                  | Cooperative    | N/A       | [#31](https://github.com/MahBoiDeveloper/RedAlert3World/issues/31) |
 | Iron1516                | [RA3] Conscript And Bear (Cheat)          | Cooperative    | N/A       | [#31](https://github.com/MahBoiDeveloper/RedAlert3World/issues/31) |
+| Iron1516                | [RA3] Iron1516's Allied 1                 | Cooperative    | N/A       | [#34](https://github.com/MahBoiDeveloper/RedAlert3World/issues/34) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
