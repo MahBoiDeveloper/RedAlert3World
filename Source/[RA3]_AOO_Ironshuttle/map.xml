@@ -246,7 +246,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="RA3_Ironshuttle">
+		id="RA3_AOD_Ironshuttle">
 		<Waypoint
 			id="lala">
 			<Position
@@ -28370,9 +28370,9 @@
 		<MapMetaData
 			BorderSize="8"
 			CRC="0"
-			Description="Map:[RA3]_Ironshuttle/Desc"
-			DisplayName="[RA3] Ironshuttle"
-			FileName="data\maps\[ra3]_ironshuttle\[ra3]_ironshuttle.map"
+			Description="Map:[RA3]_AOD_Ironshuttle/Desc"
+			DisplayName="[RA3] AOO Ironshuttle"
+			FileName="data"
 			Height="616"
 			IsMultiplayer="false"
 			IsOfficial="false"
@@ -28447,7 +28447,7 @@
 				Value="1"/>
 			<StringProperty
 				Key="mapName"
-				Value="[RA3] Ironshuttle"/>
+				Value="[RA3] AOO Ironshuttle"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
@@ -28473,7 +28473,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="RA3_Ironshuttle">
+		id="RA3_AOD_Ironshuttle">
 		<Tile
 			BaseTexture="ART:Terrain/Grass_Hawaii04.tga"
 			NormalTexture="ART:Terrain/Grass_Hawaii04_NRM.tga"

@@ -121,8 +121,8 @@ This table contains information about all custom map, which has been added to th
 | lPagnus                 | [RA3] S3: Emperors Last Wish (Normal)     | Cooperative    | N/A       | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S4: Lake Of Death (Normal)          | Cooperative    | N/A       | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
 | lPagnus                 | [RA3] S5: Moscow Revengeance (Normal)     | Cooperative    | N/A       | [#61](https://github.com/MahBoiDeveloper/RedAlert3World/issues/61) |
-| 31773177                | [RA3] Ironshuttle                         | Art Of Defense | 1.4       | [#93](https://github.com/MahBoiDeveloper/RedAlert3World/issues/93) |
-| Elven                   | [RA3] Technology Theft                    | Art Of Defense | 1.5       | [#92](https://github.com/MahBoiDeveloper/RedAlert3World/issues/92) |
+| 31773177                | [RA3] AOO Ironshuttle                     | Art Of Offense | 1.4       | [#93](https://github.com/MahBoiDeveloper/RedAlert3World/issues/93) |
+| Elven                   | [RA3] AOO Technology Theft                | Art Of Offense | 1.5       | [#92](https://github.com/MahBoiDeveloper/RedAlert3World/issues/92) |
 | ThaSlayerb              | [RA3] Prison Break                        | Cooperative    | 1.0       | [#91](https://github.com/MahBoiDeveloper/RedAlert3World/issues/91) |
 | APNHQ                   | [RA3] AOD Washington Of Liberty           | Art Of Defense | 2.99      | [#73](https://github.com/MahBoiDeveloper/RedAlert3World/issues/73) |
 | 5dgame.cn               | [RA3] Hero Arena                          | etc            | 0.5       | [#82](https://github.com/MahBoiDeveloper/RedAlert3World/issues/82) |
