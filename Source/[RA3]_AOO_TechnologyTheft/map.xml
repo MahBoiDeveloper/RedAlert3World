@@ -537,7 +537,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="RA3_TechnologyTheft">
+		id="RA3_AOO_TechnologyTheft">
 		<Waypoint
 			id="Waypoint 133">
 			<Position
@@ -40994,9 +40994,9 @@
 		<MapMetaData
 			BorderSize="50"
 			CRC="0"
-			Description="Map:[RA3]_TechnologyTheft/Desc"
-			DisplayName="[RA3] Technology Theft"
-			FileName="data\maps\[ra3]_technologytheft\[ra3]_technologytheft.map"
+			Description="Map:[RA3]_AOO_TechnologyTheft/Desc"
+			DisplayName="[RA3] AOO Technology Theft"
+			FileName="data"
 			Height="700"
 			IsMultiplayer="false"
 			IsOfficial="false"
@@ -41074,7 +41074,7 @@
 				Value="1"/>
 			<StringProperty
 				Key="mapName"
-				Value="[RA3] Technology Theft"/>
+				Value="[RA3] AOO Technology Theft"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
@@ -41100,7 +41100,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="RA3_TechnologyTheft">
+		id="RA3_AOO_TechnologyTheft">
 		<Tile
 			BaseTexture="ART:Terrain/TGravel_Yucatan01.tga"
 			NormalTexture="ART:Terrain/TGravel_Yucatan01_nrm.tga"
