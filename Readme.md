@@ -198,6 +198,7 @@ This table contains information about all custom map, which has been added to th
 | Iron1516                | [RA3] Iron1516's Japan 1                  | Cooperative    | N/A       | [#2](https://github.com/MahBoiDeveloper/RedAlert3World/issues/2)   |
 | Iron1516                | [RA3] Iron1516's Japan 2                  | Cooperative    | N/A       | [#3](https://github.com/MahBoiDeveloper/RedAlert3World/issues/3)   |
 | Iron1516                | [RA3] Iron1516's Japan 3                  | Cooperative    | N/A       | [#4](https://github.com/MahBoiDeveloper/RedAlert3World/issues/4)   |
+| JoKer Source            | [RA3] TM Death Metal                      | Tank Mission   | 1.3       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
