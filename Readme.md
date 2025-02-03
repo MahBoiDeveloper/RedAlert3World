@@ -132,7 +132,7 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] AOO Encircling Circles              | Art Of Offense | 6.8       | [#70](https://github.com/MahBoiDeveloper/RedAlert3World/issues/70) |
 | APNHQ                   | [RA3] AOD Cunning Wolf                    | Art Of Defense | 6.8       | [#68](https://github.com/MahBoiDeveloper/RedAlert3World/issues/68) |
 | Mirrar-x                | [RA3] Tide Of Blood                       | Cooperative    | 1.2OV     | [#67](https://github.com/MahBoiDeveloper/RedAlert3World/issues/67) |
-| chefjr84                | [RA3] Bomb Shell                          | Cooperative    | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
+| chefjr84                | [RA3] Bomb Shelter                        | Cooperative    | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | ItzTeeJaay              | [RA3] Allies Mission                      | Cooperative    | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Unknown                 | [RA3] AOD Tropical Alert                  | Art Of Defense | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | TiberianFiend           | [RA3] AOD Project Omega                   | Art Of Defense | N/A       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
