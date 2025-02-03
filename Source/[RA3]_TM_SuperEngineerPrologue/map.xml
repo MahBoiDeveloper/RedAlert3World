@@ -84,7 +84,7 @@
 			type="all"/>
 	</Includes>
 	<GameMap
-		id="RA3_TM_SuperEngineerProlouge">
+		id="RA3_TM_SuperEngineerPrologue">
 		<Waypoint
 			id="InitialCameraPosition">
 			<Position
@@ -17839,9 +17839,9 @@
 		<MapMetaData
 			BorderSize="10"
 			CRC="0"
-			Description="Map:[RA3]_TM_SuperEngineerProlouge/Desc"
-			DisplayName="[RA3] TM Super Engie: Prolouge"
-			FileName="data\maps\[ra3]_tm_superengineerprolouge\[ra3]_tm_superengineerprolouge.map"
+			Description="Map:[RA3]_TM_SuperEngineerPrologue/Desc"
+			DisplayName="[RA3] TM Super Engie: Prologue"
+			FileName="data"
 			Height="420"
 			IsMultiplayer="false"
 			IsOfficial="false"
@@ -17909,7 +17909,7 @@
 				Value="1"/>
 			<StringProperty
 				Key="mapName"
-				Value="[RA3] TM Super Engie: Prolouge"/>
+				Value="[RA3] TM Super Engie: Prologue"/>
 			<StringProperty
 				Key="mapDescription"
 				Value=""/>
@@ -17935,7 +17935,7 @@
 	<TerrainTextureAtlas
 		AllowLossyCompression="true"
 		AtlasSize="2048"
-		id="RA3_TM_SuperEngineerProlouge">
+		id="RA3_TM_SuperEngineerPrologue">
 		<Tile
 			BaseTexture="ART:Terrain/TDirt_Easter08.tga"
 			NormalTexture="ART:Terrain/TDirt_Easter08_NRM.tga"
