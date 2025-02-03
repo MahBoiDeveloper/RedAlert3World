@@ -79,7 +79,7 @@ This table contains information about all custom map, which has been added to th
 | Clément Gerber          | [RA3] TD A New Hope                       | Tower Defense  | N/A       | [#50](https://github.com/MahBoiDeveloper/RedAlert3World/issues/50) |
 | 666pro                  | [RA3] Attack On The Emperor               | Cooperative    | 1.4       | [#49](https://github.com/MahBoiDeveloper/RedAlert3World/issues/49) |
 | 666pro                  | [RA3] Mount Fuji Capture                  | Cooperative    | 1.0.1     | [#57](https://github.com/MahBoiDeveloper/RedAlert3World/issues/57) |
-| 666pro                  | [RA3] Finale Battle                       | Cooperative    | Beta 0.1  | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
+| 666pro                  | [RA3] Final Battle                        | Cooperative    | Beta 0.1  | [#58](https://github.com/MahBoiDeveloper/RedAlert3World/issues/58) |
 | Mommy_long21            | [RA3] Trapped                             | Singleplayer   | N/A       | [#60](https://github.com/MahBoiDeveloper/RedAlert3World/issues/60) |
 | Doctor.Nefarious, ARRIM | [RA3] Shivery Carafia                     | Cooperative    | 1.42OV    | [#48](https://github.com/MahBoiDeveloper/RedAlert3World/issues/48) |
 | superblooper            | [RA3] TD Hard Mode                        | Tower Defense  | 5.2       | [#47](https://github.com/MahBoiDeveloper/RedAlert3World/issues/47) |
