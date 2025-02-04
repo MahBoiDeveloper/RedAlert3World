@@ -47,6 +47,7 @@ List of included maps and campaigns with edits:
 * [352 Red Alert 3 Map Pack](https://www.moddb.com/games/cc-red-alert-3/addons/352-red-alert-3-map-pack)
 * [Red Alert 3 T.D. AND A.o.D. MAP PACK](https://www.moddb.com/games/cc-red-alert-3/addons/red-alert-3-td-and-aod-map-pack)
 * [Iron1516 cooperative campaigns](https://users.playground.ru/2792319/posts)
+* [C&C Mega Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1503240525)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
