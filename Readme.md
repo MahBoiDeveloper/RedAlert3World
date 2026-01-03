@@ -49,6 +49,7 @@ List of included maps and campaigns with edits:
 * [Iron1516 cooperative campaigns](https://users.playground.ru/2792319/posts)
 * [C&C Mega Map Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=1503240525)
 * [Operation Chameleon](https://www.moddb.com/games/cc-red-alert-3/addons/operation-chameleon)
+* [War of Creation](https://www.moddb.com/games/cc-red-alert-3/addons/war-of-creation-2-33)
 
 ## Installation
 Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -203,6 +204,7 @@ This table contains information about all custom map, which has been added to th
 | JoKer Source            | [RA3] TM Death Metal                      | Tank Mission   | 1.3       | [#63](https://github.com/MahBoiDeveloper/RedAlert3World/issues/63) |
 | Gangstapolak            | [RA3] TD Paradise Defense                 | Tower Defense  | 1.7       | [#96](https://github.com/MahBoiDeveloper/RedAlert3World/issues/96) |
 | superangel              | [RA3] Operation Chameleon                 | Cooperative    | N/A       | [#97](https://github.com/MahBoiDeveloper/RedAlert3World/issues/97) |
+| APNHQ                   | [RA3] AOD War Of Creation                 | Art Of Defense | 2.33      | [#98](https://github.com/MahBoiDeveloper/RedAlert3World/issues/98) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
