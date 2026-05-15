@@ -52,7 +52,7 @@ List of included maps and campaigns with edits:
 * [War of Creation](https://www.moddb.com/games/cc-red-alert-3/addons/war-of-creation-2-33)
 
 ## Installation
-Copy maps in `Source` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
+Copy maps from `Source\YourGameVersion` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
 
 ## About `map.str` format used in the repository
 All strings in `map.str` follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
