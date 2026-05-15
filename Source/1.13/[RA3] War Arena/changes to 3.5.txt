@@ -1,0 +1,13 @@
+changes to v3.5
+
+- Added a in game minimap - Credit goes to [b]Acid_Crash[/b], thank again dude. 
+- Fixed a bug where players still get to spawn infantry when spawning vehicles
+- Magnetic Satellites have been removed because they kill shogunX too easily.
+- Magnetic Satellites have been replaced with 2 supports that can raise your base power by 500 and spawn 2 extra base defense structures.
+- Default base power for all players have been raised slightly,
+- Removed a few trees and fixed some cliff textures. O.o
+- The warning message for spawning two of the same type has been changed. It will no longer flash.
+- The amount of points needed to capture garrage has been raised to 200 from 90.
+- Players will now get 50 War Points and a high health Emperor Mecha when he/she destroys a base.
+- Added a warning and a movie whenever a player spawns a Shogun Executioner. 
+- Other minor bug fixes.

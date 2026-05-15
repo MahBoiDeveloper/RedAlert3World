@@ -1,0 +1,188 @@
+MSN:THASLAYERB:PRIBRK:SkipIntro
+"If You want to skip the intro, press the Psyonic Decimator."
+END
+
+MSN:THASLAYERB:PRIBRK:DestroyOBJ
+"Destroy the Allied Headquarters to be victorious!"
+END
+
+MSN:THASLAYERB:PRIBRK:Lost
+"You failed your objectives!"
+END
+
+MSN:THASLAYERB:PRIBRK:YurikoNeeded
+"Commander, \n Yuriko is needed somewhere else on the battlefield, Take these units to make this mission end well!"
+END
+
+MSN:THASLAYERB:PRIBRK:Hey
+"Hey soldiers! \n \n Its good to see you! Come and join us!"
+END
+
+MSN:THASLAYERB:PRIBRK:WTF
+"WTF? They have captured 2 dojocores of us and tried to trick us! We must capture those dojocores!"
+END
+
+MSN:THASLAYERB:PRIBRK:Nowwhat
+"Now what? How can we capture these dojo cores? Or.... must we destroy them?!? \n \n They are comming out! Kill these men and the dojo's are ours!"
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox1
+"Welcome commander, \n This is a hightech area of the allies, using it as a prison! In the last battle we lost a lot of men, they fought bravely for the glory of the empire. But they failed... \n Now it is our turn, to do something back for our loyal soldiers!"
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox2
+"This is a little prison, it should be easy to capture."
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox3
+"This is the headquarter of the prison, destroy it to be victorious!"
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox4
+"This is the warmachine suply area, the allied nations use these tanks to battle against us!"
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox5
+"This is a lost base, \n we have lost it during an early attempt uppon rescue, somewere must be an empire MCV, \n We have lost contact to it."
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox6
+" This is the airfield, the allied nations are planning all airattacks in this area here."
+END
+
+MSN:THASLAYERB:PRIBRK:InfoBox7
+"This map is made by ThaSlayerb, \n If you find a bug or if you just wish to talk to me, send me a pm on the official forums (forums.commandandconquer.com). \n \n Good luck"
+END
+
+MSN:THASLAYERB:PRIBRK:CreditsPiggie
+"I thank Spider_Pig_Rocks for all visual he has done!"
+END
+
+MSN:THASLAYERB:PRIBRK:CreditsGren
+"I also thank Gren for the finishing touch of the visual"
+END
+
+MSN:THASLAYERB:PRIBRK:CreditsAcid
+"Minimap made by Acid_Crash!"
+END
+
+MSN:THASLAYERB:PRIBRK:CreditsProWB
+"This is a production of the ProWB clan. For more info and/or maps visit: \n prowb.forumotion.com"
+END
+
+MSN:THASLAYERB:PRIBRK:Reinforcement1DESC
+"Rescue the prisoners before moving on to the next area, atleast 1 unit must survive!"
+END
+
+MSN:THASLAYERB:PRIBRK:Reinforcement1OBJ
+"Rescue the prisoners."
+END
+
+MSN:THASLAYERB:PRIBRK:DestroyAirfieldOBJ
+"The airattacks that keep attacking yuriko comes from this airfield! Destroy the tower to get rid of this nasty airattacks! \n Do not let the big boss escape!"
+END
+
+MSN:THASLAYERB:PRIBRK:DestroyAirfieldDESC
+"Destroy the radiatower."
+END
+
+MSN:THASLAYERB:PRIBRK:Infoboxshinobi
+"Hint: Infiltrate both powerplants. Prepare for the incomming shinobis"
+END
+
+MSN:THASLAYERB:PRIBRK:ProtectYurikoDESC
+"Protect yuriko at all cost at this mission. Without her we are doomed!"
+END
+
+MSN:THASLAYERB:PRIBRK:ProtectYurikoOBJ
+"Protect Yuriko"
+END
+
+MSN:THASLAYERB:PRIBRK:DojoDESC
+"These savages stole 2 of our dojocores and tricking us with our own units! Capture the dojocores to stop this maddnes!"
+END
+
+MSN:THASLAYERB:PRIBRK:DojoOBJ
+"Capture the Dojo's"
+END
+
+MSN:THASLAYERB:PRIBRK:ProtectDESC
+"Defend your army well till they are replacable!"
+END
+
+MSN:THASLAYERB:PRIBRK:ProtectOBJ
+"Defend your army"
+END
+
+MSN:THASLAYERB:PRIBRK:Base1OBJ
+"Restore Contact with the lost base! By capturing the Powerplant."
+END
+
+MSN:THASLAYERB:PRIBRK:MCVDESC
+"The allied Nations are escorting a Mobile Construction Yard trough the Area, Destroy the escort to get the MCV"
+END
+
+MSN:THASLAYERB:PRIBRK:MCVOBJ
+"Destroy the MCV escort"
+END
+
+MSN:THASLAYERB:PRIBRK:ShinobiMustInfiltrateMID
+"The shinobi's must infiltrate the powerplants within 1 minute, or there will come a huge devastating airattack!"
+END
+
+MSN:THASLAYERB:PRIBRK:ShinobiMustInfiltrate
+"Time left:"
+END
+
+MSN:THASLAYERB:PRIBRK:PrepareDefenseDESC
+"Defend yourself from the incomming attacks, DO NOT, I repeat DO NOT leave your base area!"
+END
+
+MSN:THASLAYERB:PRIBRK:Wave
+"Next wave arrives in:"
+END
+
+MSN:THASLAYERB:PRIBRK:SpawmShinobis
+"Shinobis appear in:"
+END
+
+MSN:THASLAYERB:PRIBRK:NoDecimator
+"Do not fire the decimator to aid you in your journey."
+END
+
+MSN:THASLAYERB:PRIBRK:MessageObjective7
+"Restore contact with that lost base by capturing the powerplant! Do not destroy it!"
+END
+
+MSN:THASLAYERB:PRIBRK:ShinobiMustInfiltrateHARD
+"The shinobi's must infiltrate the powerplants within 45 seconds, or there will come a huge devastating airattack!"
+END
+
+MSN:THASLAYERB:PRIBRK:ShinobiMustInfiltrateEASY
+"The shinobi's must infiltrate the powerplants, or there will come a huge devastating airattack!"
+END
+
+MSN:THASLAYERB:PRIBRK:HumanPlayer
+"Player 3 is an human player, this match can not continue. \n Make sure the topplayer is a computercontrolled player!"
+END
+
+MSN:THASLAYERB:PRIBRK:PrepareDefenseOBJ
+"Defend the base"
+END
+
+MSN:THASLAYERB:PRIBRK:FireD
+"Fire the Psionic Decimator at this position. ( Can only be used once)"
+END
+
+MSN:THASLAYERB:PRIBRK:FireD2
+"Fire Psionic Decimator."
+END
+
+MSN:THASLAYERB:PRIBRK:Intro1.1
+" If you want to skip the Intro, press execute "
+END
+
+MSN:THASLAYERB:PRIBRK:Intro1
+" Skip Intro"
+END
+

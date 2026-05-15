@@ -1,0 +1,128 @@
+MSN:MIRRARX:HOD:001
+"MAP MADE BY: ARRIM | FLY BEAR \nGLHF!!!"
+END
+
+SUBTITLE:SS1
+"[0.5:1.0]Moscow, we are back[2.0:2.0]The traitor Yuri will definitely pay!"
+END
+
+SUBTITLE:SS2
+"[0.5:1.0]The traitor Yuri has taken over the Kremlin and must get rid of him, no matter what the cost."
+END
+
+SUBTITLE:SS3
+"[0.5:1.0]The attacking forces have not yet been fully assembled, hold out for a while, and later we will launch a full-scale offensive."
+END
+
+SUBTITLE:SS4
+"[1.0:3.0] Yuri: We finally sat across from each other... [3.0:2.0] Stop now, as long as you don't interfere with me anymore, I promise I won't hurt you in the slightest"
+END
+
+SUBTITLE:SS5
+"[1.0:3.0] Yuri: No amount of tanks can only lead to useless sacrifices"
+END
+
+SUBTITLE:SS6
+"[1.0:3.0] Yuri: The air force is really good, but it's a pity that Moscow's airspace has long been out of your place"
+END
+
+SUBTITLE:SS7
+"[1.0:3.0] Yuri: So, you still built the Kirov airship. [3.0:1.0] That's very comforting."
+END
+
+SUBTITLE:SS8
+"[1.0:3.0] Yuri: You don't really want to use nuclear weapons on the soil of your homeland, do you?"
+END
+
+SUBTITLE:SS9
+"[1.0:3.0] The Stalingrad Panzer Division is assembled and ready for a general attack!"
+END
+
+SUBTITLE:SS10
+"[1.0:3.0] Commander, Yuri activated the Iron Curtain system to protect his fortress and we need to find a way to crack it"
+END
+
+SUBTITLE:SS11
+"[1.0:3.0] Vulnerability in the Iron Curtain system has been relocated"
+END
+
+SUBTITLE:SS12
+"[1.0:3.0] Yuri: You shouldn't do that. [3.0:2.0] Surrender before I'm completely angry."
+END
+
+SUBTITLE:SS13
+"[1.0:3.0] Warning, Yuri's clone force has been activated"
+END
+
+SUBTITLE:SS14
+"[1.0:2.0] Yuri: In that case, please witness the destruction. [2.0:1.0] Your destruction"
+END
+
+SUBTITLE:SS15
+"[1.0:3.0] Commander, Yuri has unleashed some kind of terrifying weapon, we don't know what it can do, so be careful!"
+END
+
+SUBTITLE:SS16
+"[1.0:2.0] Yuri: No! You shouldn't do that. [3.0:2.0] I used to hold you in high esteem, why can't you understand me?!"
+END
+
+SUBTITLE:SS17
+"[1.0:2.0] Yuri's end has come!"
+END
+
+MSN:MIRRARX:HOD:OBJ_001
+"Wait for the troops to assemble"
+END
+
+MSN:MIRRARX:HOD:OBJ_002
+"Destroy the Iron Curtain"
+END
+
+MSN:MIRRARX:HOD:OBJ_003
+"Destroy the Kremlin where Yuri is hiding"
+END
+
+SUBTITLE:SS18
+"[1.0:3.0] The Iron Curtain system is completely offline and the Kremlin is exposed"
+END
+
+SCRIPT:AI1
+"YURI"
+END
+
+SCRIPT:AI2
+"KERIMERIN"
+END
+
+SUBTITLE:SS19
+"[1.0:3.0]The production line of Tesla tanks in the Moscow region has been restored"
+END
+
+SUBTITLE:SS20
+"[1.0:3.0]The Union heavy tanks are the largest and most powerful armored unit in Soviet history, and they are now at your disposal"
+END
+
+SUBTITLE:SS21
+"[1.0:3.0] The Stalingrad Front has withdrawn"
+END
+
+SUBTITLE:SS22
+"[1.0:3.0] A friendly commander has been killed, our troops will be wiped out, and the mission will fail"
+END
+
+SUBTITLE:SS23
+"[1.0:3.0] The left flank of the Hand of Death has been destroyed"
+END
+
+SUBTITLE:SS24
+"[1.0:3.0] The right wing of the Hand of Death has been destroyed"
+END
+
+SUBTITLE:SS25
+"[1.0:3.0] Yuri's ultimate weapon has been completely destroyed"
+END
+
+SUBTITLE:SS26
+"[1.0:3.0] Warning: The Hand of Death has begun automating patrols of the outer Moscow area"
+END
+

@@ -1,0 +1,304 @@
+MSN:MANDO777:WARARENA:p1shogun
+"WARNING! Player 1 has spawned a Shogun Executioner"
+END
+
+MSN:MANDO777:WARARENA:p2shogun
+"WARNING! Player 2 has spawned a Shogun Executioner"
+END
+
+MSN:MANDO777:WARARENA:p3shogun
+"WARNING! Player 3 has spawned a Shogun Executioner"
+END
+
+MSN:MANDO777:WARARENA:p4shogun
+"WARNING! Player 4 has spawned a Shogun Executioner"
+END
+
+MSN:MANDO777:WARARENA:reward
+"A player has destroyed a base and is awarded with War Points and a powerful unit."
+END
+
+MSN:MANDO777:WARARENA:SUPERengine
+"WARNING, a player has collected enough War Points to launch a super weapon at the enemy base!"
+END
+
+MSN:MANDO777:WARARENA:MINORengine
+"WARNING! a player has collected enough War Points to launch a dual support power strike at the enemy base!"
+END
+
+MSN:MANDO777:WARARENA:p1spawn2
+"WARNING! Player 1 is trying to spawn multiple units of the same type. Only 1 is allowed! Adjust your engineer positions!"
+END
+
+MSN:MANDO777:WARARENA:p2spawn2
+"WARNING! Player 2 is trying to spawn multiple units of the same type. Only 1 is allowed! Adjust your engineer positions!"
+END
+
+MSN:MANDO777:WARARENA:p3spawn2
+"WARNING! Player 3 is trying to spawn multiple units of the same type. Only 1 is allowed! Adjust your engineer positions!"
+END
+
+MSN:MANDO777:WARARENA:p4spawn2
+"WARNING! Player 4 is trying to spawn multiple units of the same type. Only 1 is allowed! Adjust your engineer positions!"
+END
+
+MSN:MANDO777:WARARENA:p1
+"You are Player 1"
+END
+
+MSN:MANDO777:WARARENA:p2
+"You are Player 2"
+END
+
+MSN:MANDO777:WARARENA:p3
+"You are Player 3"
+END
+
+MSN:MANDO777:WARARENA:p4
+"You are Player 4"
+END
+
+MSN:MANDO777:WARARENA:me
+"Map made by: Mando777"
+END
+
+MSN:MANDO777:WARARENA:magsat
+"Launch 2 Soviet support powers at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:freezebomb
+"Launch 2 Allies support powers at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:planesbomb
+"Launch 2 Empire support powers at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:asuper
+"Launch a Proton Collider at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:esuper
+"Launch a Psionic Decimator at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:ssuper
+"Launch a Vacuum Imploder at your enemy's base."
+END
+
+MSN:MANDO777:WARARENA:beacon
+"Make sure you remove your beacons after use, as it can cause problems in unit spawning."
+END
+
+MSN:MANDO777:WARARENA:intro1
+"Welcome to "War Arena" by Mando777. If this is your first time, please don't do anything, let the automatic camera guide you. READ ALL THE INFORMATION BOXES. If this is not your first time, then move your engineer to the wall to ready-up now."
+END
+
+MSN:MANDO777:WARARENA:intro2
+"The objective of this game is to destroy the key structure in your enemy's base, get 1500 kills or 1500 War Points. You cannot build or create units."
+END
+
+MSN:MANDO777:WARARENA:intro3
+"The only way to spawn units in your base is to move an engineer next to the unit you want to spawn. You can only spawn 4 different types of unit at any given time."
+END
+
+MSN:MANDO777:WARARENA:intro4
+"The four types are: <infantry>, <tier 1 and 2 vehicles>, <tier 3 vehicles> and <air units>. (shogunX counts as air units, units in the same row belong to the same type). The more kills you have the more engineers you will have to spawn better units. If your units are not spawning, it's either that your engineer is not close enough to the unit or you have an engineer near another unit of the same type."
+END
+
+MSN:MANDO777:WARARENA:intro45
+"You will lose low leveled engineers as you spawn higher leveled engineers. All other players will receive free engineers and reinforcements if you are ahead by a lot in kill count."
+END
+
+MSN:MANDO777:WARARENA:intro5
+"Units have different spawning time, the time it takes to spawn 1 unit is indicated by waypoint markers."
+END
+
+MSN:MANDO777:WARARENA:intro6
+"The middle area with the lighter grass is the War Arena, by putting your units on the War Arena you will gain War Points. War Points allow you to unlock very useful special support powers. It is highly recommended that you take control of this area FAST. Each player also gains War Points just by staying alive, but at a much slower rate."
+END
+
+MSN:MANDO777:WARARENA:intro7
+"To gain access to a special support power simply move an engineer near the indicated structure. Beware though, unlike unit spawning, your engineer will die so you cannot switch to another support power once you have chosen one."
+END
+
+MSN:MANDO777:WARARENA:intro10
+"If you want to report a bug/glitch/suggestion or anything else, you can reach me on the official CNC forum. My username is "mando777". Just send me a Private Message."
+END
+
+MSN:MANDO777:WARARENA:intro8
+"The numbers on the ground indicate how many kills or War Points you need to spawn an engineer in that area"
+END
+
+MSN:MANDO777:WARARENA:intro9
+"A player will have an unit in front of the building if he/she has that support power."
+END
+
+MSN:MANDO777:WARARENA:begins
+"your first engineer has been spawned, move it to your choice of unit and let the game begin!"
+END
+
+MSN:MANDO777:WARARENA:centerstrike
+"Call in Desolator Airstrike at the center."
+END
+
+MSN:MANDO777:WARARENA:centerbomb
+"Spawn 4 Time Bombs at the center."
+END
+
+MSN:MANDO777:WARARENA:centerplanes
+"Call in 4 Final Squadrons at the center."
+END
+
+MSN:MANDO777:WARARENA:centermag
+"Launch 4 Magnetic Singularities at the center."
+END
+
+MSN:MANDO777:WARARENA:centersatdrop
+"Launch 4 Satellite Dumps at the center."
+END
+
+MSN:MANDO777:WARARENA:cheating
+"You shall not pass!"
+END
+
+MSN:MANDO777:WARARENA:marker1
+"This marker is equal to 1 second."
+END
+
+MSN:MANDO777:WARARENA:marker2
+"This marker is equal to 5 seconds."
+END
+
+MSN:MANDO777:WARARENA:toxic
+"Toxic Corrosion"
+END
+
+MSN:MANDO777:WARARENA:terror
+"Terror Drone Surprise (for Soviets only)"
+END
+
+MSN:MANDO777:WARARENA:grinder
+"Grinder Treads (for Soviets only)"
+END
+
+MSN:MANDO777:WARARENA:mag1
+"Obtain extra power and base defences"
+END
+
+MSN:MANDO777:WARARENA:mag2
+"Obtain even more power and base defences"
+END
+
+MSN:MANDO777:WARARENA:mag3
+"2 ShogunX, but only 1 is allowed in the Arena."
+END
+
+MSN:MANDO777:WARARENA:SHOGUN
+"You can only spawn and have 1 shogunX in the arena."
+END
+
+MSN:MANDO777:WARARENA:air
+"Advanced Aeronautics (for Allies only)"
+END
+
+MSN:MANDO777:WARARENA:chrono1
+"Chrono Rift"
+END
+
+MSN:MANDO777:WARARENA:chrono2
+"Chrono Chasm"
+END
+
+MSN:MANDO777:WARARENA:chrono3
+"Chrono Fissure"
+END
+
+MSN:MANDO777:WARARENA:tech
+"High Technology (for Allies only)"
+END
+
+MSN:MANDO777:WARARENA:rocket
+"Advanced Rocket Pods (for Empires only)"
+END
+
+MSN:MANDO777:WARARENA:cryo1
+"Cryoshot"
+END
+
+MSN:MANDO777:WARARENA:cryo2
+"Cryoblast"
+END
+
+MSN:MANDO777:WARARENA:cryo3
+"Unlock VX and Tengu transforms."
+END
+
+MSN:MANDO777:WARARENA:drones
+"Point-Defense Drones"
+END
+
+MSN:MANDO777:WARARENA:discharge
+"Honorable Discharge (for Empires only)"
+END
+
+MSN:MANDO777:WARARENA:emperor1
+"Emperor's Rage"
+END
+
+MSN:MANDO777:WARARENA:emperor2
+"Emperor's Revenge"
+END
+
+MSN:MANDO777:WARARENA:emperor3
+"Emperor's Retribution"
+END
+
+MSN:MANDO777:WARARENA:P1Kills
+"Player 1 Kill Count: "
+END
+
+MSN:MANDO777:WARARENA:P2Kills
+"Player 2 Kill Count: "
+END
+
+MSN:MANDO777:WARARENA:P3Kills
+"Player 3 Kill Count: "
+END
+
+MSN:MANDO777:WARARENA:P4Kills
+"Player 4 Kill Count: "
+END
+
+MSN:MANDO777:WARARENA:P1Score
+"Player 1 War Points: "
+END
+
+MSN:MANDO777:WARARENA:P2Score
+"Player 2 War Points: "
+END
+
+MSN:MANDO777:WARARENA:P3Score
+"Player 3 War Points: "
+END
+
+MSN:MANDO777:WARARENA:P4Score
+"Player 4 War Points: "
+END
+
+MSN:MANDO777:WARARENA:P1WINS
+"Player 1 has obtained enough kills or War Points to win the game, congratz and GG!"
+END
+
+MSN:MANDO777:WARARENA:P2WINS
+"Player 2 has obtained enough kills or War Points to win the game, congratz and GG!"
+END
+
+MSN:MANDO777:WARARENA:P3WINS
+"Player 3 has obtained enough kills or War Points to win the game, congratz and GG!"
+END
+
+MSN:MANDO777:WARARENA:P4WINS
+"Player 4 has obtained enough kills or War Points to win the game, congratz and GG!"
+END
+

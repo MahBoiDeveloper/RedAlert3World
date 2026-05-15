@@ -1,0 +1,164 @@
+MSN:EvilConker:DEFARN:buildtime
+"Time you have to fortify yourself:"
+END
+
+MSN:EvilConker:DEFARN:upgrade
+"Current Reinforcements: Beginning Tier: 5 peacekeepers, $1000"
+END
+
+MSN:EvilConker:DEFARN:terminal
+"Reinforcement tiers: \n Beginning: 5 peace keepers, $1000 \n Tier 1: 10 peace keepers, $1500 \n Tier 2: 5 peace keepers, 10 flak troopers, $2000. \n Tier 3: 5 sickles, 5 flak troopers $2500.  \n Tier 4: 5 sickles, 5 tank busters, $3000 \n Tier 5: 5 sickles, 5 gaurdian tanks. $3500 \n Tier 6: 5 sickles, 5 hammer tanks $4000 \n Tier 7: 5 tesla tanks, $5000"
+END
+
+MSN:EvilConker:DEFARN:upgrade1
+"Current Reinforcements: \n Tier 1: 10 peace keepers, $1500."
+END
+
+MSN:EvilConker:DEFARN:upgrade2
+"Current Reinforcements: \n Tier 2: 5 peace keepers, 10 flak troopers, $2000."
+END
+
+MSN:EvilConker:DEFARN:upgrade3
+"Current Reinforcements: \n Tier 3: 5 sickles, 5 flak troopers $2500."
+END
+
+MSN:EvilConker:DEFARN:upgrade4
+"Current Reinforcements: \n Tier 4: 5 sickles, 5 tank busters, $3000."
+END
+
+MSN:EvilConker:DEFARN:upgrade5
+"Current Reinforcements: \n Tier 5: 5 sickles, 5 gaurdian tanks. $3500"
+END
+
+MSN:EvilConker:DEFARN:upgrade6
+"Current Reinforcements: \n Tier 6: 5 sickles, 5 hammer tanks. $4000"
+END
+
+MSN:EvilConker:DEFARN:upgrade7
+"Current Reinforcements: \n Tier 7: 5 tesla tanks, $5000 n\ CANNOT UPGRADE ANY FARTHER."
+END
+
+MSN:EvilConker:DEFARN:intro1
+"Alright commanders, welcome to our advanced climate controlled Futuretech training facility, this is going to be a test on how well you all can defend your base under pressure from your enemies, also, we will be testing our new advanced CABAL A.I. version .5, but for right now, I just want you all to build up your bases, in 3 minutes the test will begin."
+END
+
+MSN:EvilConker:DEFARN:intro2
+"Alright, your base building time is up, I'll program our A.I. to send you your first wave, it will be a moderatly contro-"
+END
+
+MSN:EvilConker:DEFARN:intro3
+"Wait, who are you guys, what's going on here?"
+END
+
+MSN:EvilConker:DEFARN:intro4
+"This is an insurrection, please be calm as a new order is put in place."
+END
+
+MSN:EvilConker:DEFARN:intro5
+"CABAL, is that you?"
+END
+
+MSN:EvilConker:DEFARN:intro6
+"That's going to be King CABAL to you, this is your end"
+END
+
+MSN:EvilConker:DEFARN:intro7
+"Wait wha-"
+END
+
+MSN:EvilConker:DEFARN:intro8
+"The new order has been assigned, insurrection completed, I aplogize for the interferance."
+END
+
+MSN:EvilConker:DEFARN:intro9
+"The rules of this game have changed"
+END
+
+MSN:EvilConker:DEFARN:intro10
+"You will now have to destroy each other in a an anti-defense/defense style game."
+END
+
+MSN:EvilConker:DEFARN:intro11
+"You will do this by purchasing waves of units to send against each others bases."
+END
+
+MSN:EvilConker:DEFARN:intro12
+"To do this, you must first select the player you want to spawn your wave at, you can do this by making your engineer stand on the number representing their player number"
+END
+
+MSN:EvilConker:DEFARN:intro13
+"Then you will use engineers that will spawn here to purchase units by sending them to the area that contains the wave you want to purchase."
+END
+
+MSN:EvilConker:DEFARN:intro14
+"You will get these engineers every 30 seconds."
+END
+
+MSN:EvilConker:DEFARN:intro15
+"To help defend your base, I am generous enough to grant you reinforcements."
+END
+
+MSN:EvilConker:DEFARN:intro16
+"Your default reinforcements is 5 peacekeepers and 1000 credits, but you may upgrade them by garrisoning those structures with your engineers."
+END
+
+MSN:EvilConker:DEFARN:intro17
+"The game ends when all opposing forces have been eliminated."
+END
+
+MSN:EvilConker:DEFARN:intro18
+"Good luck, you pittifull humans! MWAH HA HA HA HA!"
+END
+
+MSN:EvilConker:DEFARN:intro19
+"luls, oh, and don't even think of trying to send your defensive forces outside of your base, they will be unmercively terminated."
+END
+
+MSN:EvilConker:DEFARN:shop1
+"One Engineer: 10 conscripts, 5 peacekeepers, 10 imperial warriors."
+END
+
+MSN:EvilConker:DEFARN:shop2
+"10 javalins, 5 tank busters, 10 flak troopers, 5 peacekeepers"
+END
+
+MSN:EvilConker:DEFARN:shop3
+"10 mecha tengu, 5 sickles, 5 tank busters."
+END
+
+MSN:EvilConker:DEFARN:shop4
+"5 javalins, 5 tengu, 10 IFV's, 5 peacekeepers."
+END
+
+MSN:EvilConker:DEFARN:shop5
+"5 hammers, 3 gaurdians, 6 tsunami's."
+END
+
+MSN:EvilConker:DEFARN:shop6
+"5 tesla tanks, 5 tesla troopers, 5 sickles."
+END
+
+MSN:EvilConker:DEFARN:shop7
+"5 twinblades, 5 VX, 5 tengu, 5 cryo copters."
+END
+
+MSN:EvilConker:DEFARN:shop8
+"2 v4's, 2 athena cannons, 2 wave force"
+END
+
+MSN:EvilConker:DEFARN:shop9
+"5 oni's, 5 apocs, 5 mirage tanks."
+END
+
+MSN:EvilConker:DEFARN:shop10
+"5 kirov airships, 1 emperor oni's."
+END
+
+MSN:EvilConker:DEFARN:conker
+"Map Made by EvilConker"
+END
+
+MSN:EvilConker:DEFARN:derefer
+"Minimap made by Derefer"
+END
+

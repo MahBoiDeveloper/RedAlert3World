@@ -1,0 +1,32 @@
+WAR ARENA 3.5
+by: mando777
+
+Please, do not edit this map and credit it as yours. I've spent a ton of time on this and I hope you understand, thanks.
+If you want to change something, feel free to contact me and I will consider it. 
+
+
+Players spawn units in their bases by moving around engineers. 4 players battle in the War Arena for kills
+and War Points. They can be used to buy better units and support powers. For the complete playing instruction,
+follow the tutorial boxes in game.
+
+When doing 2v2 you should use the non-FFA version of the map and the people on the same team should take the
+top 2 spots or the bottom 2 spots. Aka top vs. bottom.
+
+
+
+Installation Instructions:
+show hidden folders (go to 'tools>folder options>view')
+
+extract the folders to the following location:
+Windows XP:
+C:\Documents and Settings\<name>\Application Data\Red Alert 3\Maps\
+
+Windows Vista:
+C:\Users\<name>\AppData\Roaming\Red Alert 3\Maps\ 
+
+
+To report glitches or other stuff, contact me on CNC official forum via PM. Username is "mando777".
+
+
+
+Thank you and enjoy the map.

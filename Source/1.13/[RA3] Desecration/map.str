@@ -1,0 +1,40 @@
+MSN:MIRRARX:DESEC:001
+"<Desecration> \nMAP MADE BY: ARRIM \nGLHF!!!"
+END
+
+SUBTITLE:SS1
+"[0.5:1.0] Yuri: Soldiers, comrades [2.0:2.0] This is a day of great sorrow! [5.0:5.0] Prime Minister Romanlov, seriously ill in bed, was brutally murdered by General Villadimore[12.0:8.0]From this moment on, General Villadimore was officially removed from the organization, and there was no room for recovery[22.0:4.0]I could sense that he had taken refuge in the White House, and the Corruptor's lair[28.0:8.0] took the White House, pulled out this stubborn rat, and then completely wiped it out"
+END
+
+MSN:MIRRARX:DESEC:OBJ_S1
+"Destroy the White House in order to arrest the traitor Villadimore"
+END
+
+SUBTITLE:SS2
+"[0.5:1.0] Verradimore: You're stupid, Commander[2.0:2.0]Yuri is playing you like a monkey[5.0:5.0] You'll never catch General Viradimore"
+END
+
+SUBTITLE:SS3
+"[0.5:1.0] Washington, DC's Psychic Beacon was destroyed[2.0:2.0] but why is he in Villadimore's Occupation Zone?"
+END
+
+SUBTITLE:SS4
+"[0.5:1.0] Allied Resistance units have moved into the war zone[5.0:2.0] Commander, if you will, let the Allies weaken Villadimore's power first"
+END
+
+SUBTITLE:SS5
+"[0.5:1.0] Our trials at the Ural Research Base were very successful, [2.0:1.0] and now this powerful tank is mass-produced enough"
+END
+
+DESC:Villadimore
+"General Viradimore"
+END
+
+DESC:Allied Resistance
+"Allied Resistance"
+END
+
+SUBTITLE:SS6
+"[0.5:1.0] No, don't, Comrade Commander... [2.0:1.0] Listen to me, it's all Yuri's conspiracy! [3.0:1.0] Ah!! Belch... Belch..."
+END
+

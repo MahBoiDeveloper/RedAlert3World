@@ -1,0 +1,64 @@
+MSN:UNKNOWN:WZA:P1score
+"Player 1's Score: "
+END
+
+MSN:UNKNOWN:WZA:P2score
+"Player 2's Score: "
+END
+
+MSN:UNKNOWN:WZA:P3score
+"Player 3's Score: "
+END
+
+MSN:UNKNOWN:WZA:P4score
+"Player 4's Score: "
+END
+
+MSN:UNKNOWN:WZA:Endgametimer
+"Time remaining: "
+END
+
+MSN:UNKNOWN:WZA:Ppos
+"Welcome. \n \n Player 1 is top left \n Player 2 is bottom left \n Player 3 is top right \n Player 4 is bottom right"
+END
+
+MSN:UNKNOWN:WZA:explain1
+"Each kill you make gets you 1 point. \n \n After so many points you level up for a better army! \n When all your units are dead you will spawn an army depending on your score."
+END
+
+MSN:UNKNOWN:WZA:P1won
+"Player 1 has won the match!"
+END
+
+MSN:UNKNOWN:WZA:P2won
+"Player 2 has won the match!"
+END
+
+MSN:UNKNOWN:WZA:P3won
+"Player 3 has won the match!"
+END
+
+MSN:UNKNOWN:WZA:P4won
+"Player 4 has won the match!"
+END
+
+MSN:UNKNOWN:WZA:Pdraw
+"Match is a tie!!"
+END
+
+MSN:UNKNOWN:WZA:P1LastLevel
+"Watch out, Player 1 is on the last level!"
+END
+
+MSN:UNKNOWN:WZA:P2LastLevel
+"Watch out, Player 2 is on the last level!"
+END
+
+MSN:UNKNOWN:WZA:P3LastLevel
+"Watch out, Player 3 is on the last level!"
+END
+
+MSN:UNKNOWN:WZA:P4LastLevel
+"Watch out, Player 4 is on the last level!"
+END
+

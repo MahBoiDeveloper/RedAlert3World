@@ -1,0 +1,80 @@
+MSN:Reefer:TDJUNGDEF:WaveStart
+"Prepare for Battle! \n Enemy waves will arrive soon from all directions \n Airwaves=5,7,10,11 Bosswaves=6,9,and last"
+END
+
+MSN:Reefer:TDJUNGDEF:W1
+"Wave 1 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W2
+"Wave 2 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W3
+"Wave 3 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W4
+"Wave 4 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W5
+"Wave 5 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W6
+"Wave 6 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W7
+"Wave 7 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W8
+"Wave 8 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W9
+"Wave 9 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W10
+"Wave 10 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:W11
+"Wave 11 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:B1
+"Boss 1 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:B2
+"Boss 2 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:B3
+"Boss 3 in:"
+END
+
+MSN:Reefer:TDJUNGDEF:Lives
+"Lives left:"
+END
+
+MSN:Reefer:TDJUNGDEF:Kills
+"Kills:"
+END
+
+MSN:Reefer:TDJUNGDEF:500Kills
+"WoW 500 kills!! Here is your present(500G)"
+END
+
+MSN:Reefer:TDJUNGDEF:1000Kills
+"Unbelievable!! 1000 Gold for 1000 kills"
+END
+
+MSN:Reefer:TDJUNGDEF:2500Kills
+"2500kills! Thats a divine achievement!! Now you will get a "Special present"
+END
+

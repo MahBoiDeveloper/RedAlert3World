@@ -1,0 +1,60 @@
+MSN:ANUMBIS:TM:opening
+"EVA--Welcome commanders to Anumbis Mission RA3, originally map was made for TW and KW"
+END
+
+MSN:ANUMBIS:TM:conquer
+"EVA--We located the enemy units in this area. We think the empire of the rising sun wants to prepare attacks and they use soviet technologys. Your  first objective is to conquer the chronospähre."
+END
+
+MSN:ANUMBIS:TM:letzteinfo
+"EVA--We send you some apocalypse tanks and engineurs to conquer our chronospähre. Then we are able to send you reinforcements. Good luck commanders, you will need it"
+END
+
+MSN:ANUMBIS:TM:objective2
+"EVA--Now commanders we send you some air support to destroy the enemy units in the middle but be careful and dont lose your apocalypse tanks"
+END
+
+MSN:ANUMBIS:TM:objective3
+"EVA--Now you must conquer the war factorys and refinarys in the top right corner to get more units to destroy the main base. We send you some more units to kill the enemy units"
+END
+
+MSN:ANUMBIS:TM:preparenow
+"EVA--Good job, commanders. We need some more time to find the main base. Now you can build a lot of units to destroy base"
+END
+
+MSN:ANUMBIS:TM:sehraufpassen
+"EVA--This is the enemy main base. We hope you are able to destroy it. It has big defenses and your main objective is to destroy the shogun executioner. You can only destroy it by destroying the three generators. Good luck commanders"
+END
+
+MSN:ANUMBIS:TM:epicend
+"EVA--Now this is your chance to destroy the shogun executioner"
+END
+
+MSN:ANUMBIS:TM:counter
+"Main base located in"
+END
+
+MSN:ANUMBIS:TM:capturegenerator
+"Conquer the chronospähre to get informations"
+END
+
+MSN:ANUMBIS:TM:vakuumbomb
+"Destroy the vakuum bomb"
+END
+
+MSN:ANUMBIS:TM:enemymiddle
+"Destroy all enemy units in the middle"
+END
+
+MSN:ANUMBIS:TM:nextcapture
+"Destroy the enemy units which are guarding the war factorys"
+END
+
+MSN:ANUMBIS:TM:genas
+"Destroy the three generators to make the shogun executioner vulnerable"
+END
+
+MSN:ANUMBIS:TM:epicbattle
+"Destroy the shogun executioner now, you have only one chance"
+END
+

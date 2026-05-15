@@ -1,0 +1,40 @@
+MSN:iron1516:MG1:Warning:2
+"!"
+END
+
+MSN:iron1516:MG1:Warning:3
+"Sit in the bunker and shoot the barrel! To divert the enemy's attention and run fast!"
+END
+
+MSN:iron1516:MG1:Start
+"Don't get caught by the enemy! This is a stealth mission. But the bear can attack purple colored soldiers! Stationary turrets can be destroyed, but not laser turrets!"
+END
+
+MSN:iron1516:MG1:Beargo
+"Send the bear to the center of the map (PRESS button) to crack the gate and go."
+END
+
+MSN:iron1516:MG1:Chameleons
+"Pass the obstacle course, catch the timings! The place is very difficult. Chameleons can't detect you, imagine that they are robots."
+END
+
+MSN:iron1516:MG1:Tower
+"The tactical defensive tower has a large detection radius, do not come close!"
+END
+
+MSN:iron1516:MG1:Tutor
+"Detection radius"
+END
+
+MSN:iron1516:MG1:Run_1
+"RUN!!!"
+END
+
+MSN:iron1516:MG1:Run_2
+"Run while the enemy checks what happened!"
+END
+
+MSN:iron1516:MG1:Run_3
+"Run here! While the enemy is not attentive!"
+END
+

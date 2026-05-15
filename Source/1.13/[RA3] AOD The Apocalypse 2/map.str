@@ -1,0 +1,32 @@
+MSN:VIKESTART:APOC2:Time
+"Reinforcements: "
+END
+
+MSN:VIKESTART:APOC2:TimeLeftToDeath
+"Destroy base before: "
+END
+
+MSN:VIKESTART:APOC2:AIHuman
+"A human has taken place in the AI's spot and therefore the match cannot continue. In order to make the system function perfectly, an AI must have the place as the director. This game will end in 10 seconds."
+END
+
+MSN:VIKESTART:APOC2:Credits
+"Map made by Vikestart. By the way, don't move your forces into Krukov's base before the reinforcements arrive. If you do, they will instantly die as you're not supposed to end the game just yet."
+END
+
+MSN:VIKESTART:APOC2:PowerCore
+"If this structure is destroyed, we will lose the communication with you all making us lose this battle! Protect this structure over everthing else!"
+END
+
+MSN:VIKESTART:APOC2:TheApocalypse_Defend
+"Defend yourself against the incoming waves comming from Krukov's base."
+END
+
+MSN:VIKESTART:APOC2:ProtectPowerCore
+"Protect the Communication Power Core!"
+END
+
+MSN:VIKESTART:APOC2:TheApocalypse_Attack
+"Eliminate Krukov and his base entirely!"
+END
+

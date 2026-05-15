@@ -1,0 +1,196 @@
+MSN:UNKNOWN:SPWNGARN:URP1
+"You are Player 1"
+END
+
+MSN:UNKNOWN:SPWNGARN:URP2
+"You are Player 2"
+END
+
+MSN:UNKNOWN:SPWNGARN:URP3
+"You are Player 3"
+END
+
+MSN:UNKNOWN:SPWNGARN:URP4
+"You are Player 4"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1score
+"Player 1's Score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P2score
+"Player 2's Score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P3score
+"Player 3's Score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P4score
+"Player 4's Score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&2score
+"Player 1+2's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&3score
+"Player 1+3's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&4score
+"Player 1+4's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P2&3score
+"Player 2+3's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P2&4score
+"Player 2+4's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P3&4score
+"Player 3+4's score: "
+END
+
+MSN:UNKNOWN:SPWNGARN:P1ExtraPoints1
+"Player 1 is falling behind, here's some points nub. Get them yourself next time!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1ExtraPoints2
+"Poor Player 1 cant get enough kills, boohoo. Lets give you some points since you can't get any."
+END
+
+MSN:UNKNOWN:SPWNGARN:P1ExtraPoints3
+"Is Player 1 really trying or does he just suck? Lets give him some charity points anyway."
+END
+
+MSN:UNKNOWN:SPWNGARN:P2ExtraPoints1
+"Player 2 is falling behind, here's some points nub. Get them yourself next time!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2ExtraPoints2
+"Poor Player 2 cant get enough kills, boohoo. Lets give you some points since you can't get any."
+END
+
+MSN:UNKNOWN:SPWNGARN:P2ExtraPoints3
+"Is Player 2 really trying or does he just suck? Lets give him some charity points anyway."
+END
+
+MSN:UNKNOWN:SPWNGARN:P3ExtraPoints1
+"Player 3 is falling behind, here's some points nub. Get them yourself next time!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P3ExtraPoints2
+"Poor Player 3 cant get enough kills, boohoo. Lets give you some points since you can't get any."
+END
+
+MSN:UNKNOWN:SPWNGARN:P3ExtraPoints3
+"Is Player 3 really trying or does he just suck? Lets give him some charity points anyway."
+END
+
+MSN:UNKNOWN:SPWNGARN:P4ExtraPoints1
+"Player 4 is falling behind, here's some points nub. Get them yourself next time!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P4ExtraPoints2
+"Poor Player 4 cant get enough kills, boohoo. Lets give you some points since you can't get any."
+END
+
+MSN:UNKNOWN:SPWNGARN:P4ExtraPoints3
+"Is Player 4 really trying or does he just suck? Lets give him some charity points anyway."
+END
+
+MSN:UNKNOWN:SPWNGARN:Endgametimer
+"Time remaining: "
+END
+
+MSN:UNKNOWN:SPWNGARN:Ppos
+"Welcome. \n \n Player 1 is top left \n Player 2 is bottom left \n Player 3 is top right \n Player 4 is bottom right"
+END
+
+MSN:UNKNOWN:SPWNGARN:explain1
+"Each kill you make gets you 1 point. \n \n After so many points you level up for a better army! \n When all your units are dead you will spawn an army depending on your score."
+END
+
+MSN:UNKNOWN:SPWNGARN:Maker
+"Map made by FRISH \n \nNew minimap and revised balance list by Badoc"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1won
+"Player 1 has won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2won
+"Player 2 has won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P3won
+"Player 3 has won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P4won
+"Player 4 has won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:Pdraw
+"Match is a tie!!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&2won
+"Players 1 and 2 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&3won
+"Players 1 and 3 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1&4won
+"Players 1 and 4 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2&3won
+"Players 2 and 3 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2&4won
+"Players 2 and 4 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P3&4won
+"Players 3 and 4 have won the match!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1left
+"Player 1 has left the game! LOLNOOB"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2left
+"Player 2 has left the game! LOLNOOB"
+END
+
+MSN:UNKNOWN:SPWNGARN:P3left
+"Player 3 has left the game! LOLNOOB"
+END
+
+MSN:UNKNOWN:SPWNGARN:P4left
+"Player 4 has left the game! LOLNOOB"
+END
+
+MSN:UNKNOWN:SPWNGARN:P1LastLevel
+"Watch out, Player 1 is on the last level!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P2LastLevel
+"Watch out, Player 2 is on the last level!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P3LastLevel
+"Watch out, Player 3 is on the last level!"
+END
+
+MSN:UNKNOWN:SPWNGARN:P4LastLevel
+"Watch out, Player 4 is on the last level!"
+END
+
