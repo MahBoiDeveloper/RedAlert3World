@@ -52,6 +52,7 @@ List of included maps and campaigns with edits:
 * [War of Creation](https://www.moddb.com/games/cc-red-alert-3/addons/war-of-creation-2-33)
 * [MG5 Desert Ambush](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-ambush-in-the-desert-for-2-players-mg5-ruseng)
 * [MG4 Impending Apocalypses](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-impending-apocalypses-for-2-players-mg4-ruseng)
+* [MG3 RPG Peacekeepers](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-rpg-peacekeepers-for-2-players-mg3-ruseng)
 
 ## Installation
 Copy maps from `Source\YourGameVersion` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
@@ -209,6 +210,7 @@ This table contains information about all custom map, which has been added to th
 | APNHQ                   | [RA3] AOD War Of Creation                 | Art Of Defense | 2.33      | [#98](https://github.com/MahBoiDeveloper/RedAlert3World/issues/98)   |
 | Iron1516                | [RA3] MG5 Desert Ambush                   | Cooperative    | N/A       | [#99](https://github.com/MahBoiDeveloper/RedAlert3World/issues/99)   |
 | Iron1516                | [RA3] MG4 Impending Apocalypses           | Cooperative    | N/A       | [#100](https://github.com/MahBoiDeveloper/RedAlert3World/issues/100) |
+| Iron1516                | [RA3] MG3 RPG Peacekeepers                | Cooperative    | N/A       | [#101](https://github.com/MahBoiDeveloper/RedAlert3World/issues/101) |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>

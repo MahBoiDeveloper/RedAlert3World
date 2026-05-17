@@ -1,0 +1,43 @@
+MSN:iron1516:MG3:Authors:1
+"Landscape author The_Cartographer (AKA cacran1f) with credit to Tiberianfiend for a quick ocean floor and the road texture, and thanks to Acid_Crash for the mini-map. Co-op map author iron1516"
+END
+
+MSN:iron1516:MG3:Roll:1
+"Auto camera roll ON !Experimental!"
+END
+
+MSN:iron1516:MG3:Roll:2
+"Auto camera roll OFF"
+END
+
+MSN:iron1516:MG3:Crate:1
+"There are reinforcements in this box. Let him collect P1"
+END
+
+MSN:iron1516:MG3:Crate:2
+"There are reinforcements in this box. And P2 wants it too, let him take this one."
+END
+
+MSN:iron1516:MG3:Crate:3
+"Caution! Collecting boxes is risky. Some of them contain bombs. There's a bomb here!"
+END
+
+MSN:iron1516:MG3:Hint:1
+"Hint 1. Hold down the mouse wheel to rotate the camera."
+END
+
+MSN:iron1516:MG3:Hint:2
+"Hint 2. You need to learn how to use a shield against Tesla fighters and Natasha."
+END
+
+MSN:iron1516:MG3:Hint:3
+"Hint 3. Engineers need to be found to fix bridges. Behind the bridges are the oil rigs you need. Good luck!"
+END
+
+MSN:iron1516:MG3:Missions:1
+"Mission 1. P1 must have 5000 or more money. P2 should have 5000 and more money. Each player must have at least 1 oil rig captured. Mission 2. Destroy the Soviet bunker! Good luck!"
+END
+
+MSN:iron1516:MG3:Hint:4
+"Beep means that Natasha is close"
+END
