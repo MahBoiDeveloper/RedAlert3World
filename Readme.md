@@ -7,7 +7,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/RedAlert3World/total.svg)](https://github.com/MahBoiDeveloper/RedAlert3World/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
 # Red Alert 3 World
-[![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
 ... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
@@ -57,9 +56,11 @@ List of included maps and campaigns with edits:
 * [MG3 RPG Peacekeepers](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-rpg-peacekeepers-for-2-players-mg3-ruseng)
 
 ## Installation
+
 Copy maps from `Source\YourGameVersion` folder to your local `%APPDATA%\Red Alert 3\Maps\` folder.
 
 ## About `map.str` format used in the repository
+
 All strings in `map.str` follow this template: `MSN:<Mapper name>:<Map name>:<String name>`
 
 * Mapper name: Full mapper name or abbreviation without whitespaces.
@@ -71,10 +72,13 @@ Example: `MSN:ELVEN:TECHTHEFT:TIMER`
 <!-- There also have the file `mapStrings.str`, that you can include in your version of `gamestrings.csf`. -->
 
 ## Credits
+
 ### Developers
+
 * mah_boi — project's author, maintainer
 
 ### Map authors
+
 This table contains information about all custom maps, which has been added to the project.
 
 | Author(s)               | Map Name                                  | Game Mode      | Version   | Related Issue                                                        |
@@ -215,6 +219,7 @@ This table contains information about all custom maps, which has been added to t
 | Iron1516                | [RA3] MG3 RPG Peacekeepers                | Cooperative    | N/A       | [#101](https://github.com/MahBoiDeveloper/RedAlert3World/issues/101) |
 
 ## License
+
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
 Copyright (C) 2024 mah_boi
 
@@ -226,7 +231,9 @@ This license enables reusers to distribute, remix, adapt, and build upon the mat
 Read more about license: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
 
 ## Legal
+
 This project has no direct affiliation with Electronic Arts Inc. Command & Conquer, Command & Conquer Red Alert 3 are registered trademarks of Electronic Arts Inc. All Rights Reserved.
 
 ## Support
+
 If you want to support me and my projects then subscribe me on [boosty](https://boosty.to/mah_boi).
