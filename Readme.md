@@ -10,7 +10,8 @@
 
 ... is a fan made package for Command &amp; Conquer: Red Alert 3 with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
-List of included maps and campaigns with edits:
+<details><summary>List of included maps, campaigns, map packs with edits</summary>
+
 * [Time To Repentance](https://www.moddb.com/games/cc-red-alert-3/addons/remastered-campaignrepentance)
 * [Bloody Blade Revenge](https://www.moddb.com/games/cc-red-alert-3/addons/lds-pve-bloody-blade-revenge)
 * [AOD Challenge](https://www.moddb.com/games/cc-red-alert-3/addons/art-of-defence-challange)
@@ -54,6 +55,9 @@ List of included maps and campaigns with edits:
 * [MG5 Desert Ambush](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-ambush-in-the-desert-for-2-players-mg5-ruseng)
 * [MG4 Impending Apocalypses](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-impending-apocalypses-for-2-players-mg4-ruseng)
 * [MG3 RPG Peacekeepers](https://www.moddb.com/games/cc-red-alert-3/addons/iron1516s-rpg-peacekeepers-for-2-players-mg3-ruseng)
+<!-- * []() -->
+
+</details>
 
 ## Installation
 
